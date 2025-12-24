@@ -1,0 +1,469 @@
+{
+    "version": 1,
+    "category": {
+        "id": "food",
+        "name": "Food",
+        "questions": [
+            {
+                "id": "food_001",
+                "prompt": "According to the Parmigiano Reggiano Consortium, what is the minimum maturation time for Parmigiano Reggiano?",
+                "choices": ["12 months", "6 months", "18 months", "24 months"],
+                "answerIndex": 0,
+                "explanation": "Parmigiano Reggiano has a minimum maturation period of 12 months before it can be sold as such.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_002",
+                "prompt": "Which scientist is widely credited with identifying umami as a distinct taste in 1908?",
+                "choices": [
+                    "Kikunae Ikeda",
+                    "Louis Pasteur",
+                    "Justus von Liebig",
+                    "Fritz Haber"
+                ],
+                "answerIndex": 0,
+                "explanation": "Japanese chemist Kikunae Ikeda identified umami (linked to glutamate) in 1908.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_003",
+                "prompt": "The characteristic nose-burning pungency of real wasabi, mustard, and horseradish is primarily due to which compound?",
+                "choices": [
+                    "Allyl isothiocyanate",
+                    "Vanillin",
+                    "Citric acid",
+                    "Lactic acid"
+                ],
+                "answerIndex": 0,
+                "explanation": "Allyl isothiocyanate (AITC) is the key pungent compound in mustard/wasabi/horseradish.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_004",
+                "prompt": "Which Scoville Heat Unit (SHU) range is commonly listed for habanero peppers?",
+                "choices": [
+                    "100,000–350,000 SHU",
+                    "2,500–10,000 SHU",
+                    "30,000–50,000 SHU",
+                    "1,000,000–2,000,000 SHU"
+                ],
+                "answerIndex": 0,
+                "explanation": "Habaneros are typically placed around 100,000–350,000 SHU on the Scoville scale.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_005",
+                "prompt": "In EU additive codes, which E-number corresponds to edible gold used as a food additive?",
+                "choices": ["E175", "E120", "E160b", "E300"],
+                "answerIndex": 0,
+                "explanation": "Edible gold is authorized as food additive E175.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_006",
+                "prompt": "The lethal neurotoxin associated with improperly prepared fugu (pufferfish) is:",
+                "choices": [
+                    "Tetrodotoxin",
+                    "Botulinum toxin",
+                    "Aflatoxin B1",
+                    "Solanine"
+                ],
+                "answerIndex": 0,
+                "explanation": "Fugu poisoning is classically due to tetrodotoxin (TTX), especially in organs like the liver/ovaries.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_007",
+                "prompt": "What is considered the main aroma-active compound responsible for saffron’s characteristic smell?",
+                "choices": ["Safranal", "Capsaicin", "Bixin", "Piperine"],
+                "answerIndex": 0,
+                "explanation": "Safranal is widely cited as saffron’s key aroma compound.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_008",
+                "prompt": "Saffron’s golden-yellow color is primarily attributed to which compound?",
+                "choices": ["Crocin", "Quinine", "Curcumin", "Anthocyanin"],
+                "answerIndex": 0,
+                "explanation": "Crocin is the principal pigment responsible for saffron’s yellow-orange coloration.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_009",
+                "prompt": "The Caesar salad is commonly traced to which place and year?",
+                "choices": [
+                    "Tijuana, 1924",
+                    "Paris, 1899",
+                    "New York City, 1933",
+                    "Rome, 1911"
+                ],
+                "answerIndex": 0,
+                "explanation": "The standard origin story places Caesar salad in Tijuana in 1924 (linked to Caesar Cardini).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_010",
+                "prompt": "In sweet wine production, the term “noble rot” most commonly refers to infection by:",
+                "choices": [
+                    "Botrytis cinerea",
+                    "Saccharomyces cerevisiae",
+                    "Penicillium roqueforti",
+                    "Aspergillus oryzae"
+                ],
+                "answerIndex": 0,
+                "explanation": "Noble rot is caused by Botrytis cinerea and is associated with wines like Sauternes and Tokaji Aszú.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_011",
+                "prompt": "Traditional Balsamic Vinegar of Modena PDO (“Affinato”) is aged for at least:",
+                "choices": ["12 years", "60 days", "3 years", "25 years"],
+                "answerIndex": 0,
+                "explanation": "The PDO “Affinato” version is aged for a minimum of 12 years (Extra Vecchio is longer).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_012",
+                "prompt": "Traditional Balsamic Vinegar of Modena PDO labeled “Extra Vecchio” is aged for at least:",
+                "choices": ["25 years", "12 years", "5 years", "2 months"],
+                "answerIndex": 0,
+                "explanation": "“Extra Vecchio” Traditional Balsamic Vinegar of Modena PDO is aged at least 25 years.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_013",
+                "prompt": "Comté (PDO) is a cooked pressed cheese aged for at least how long?",
+                "choices": ["4 months", "4 weeks", "12 months", "24 months"],
+                "answerIndex": 0,
+                "explanation": "Comté is aged at least 4 months, though many wheels mature much longer.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_014",
+                "prompt": "Roquefort PDO is made exclusively from the raw milk of which sheep breed?",
+                "choices": ["Lacaune", "Merino", "Suffolk", "Awassi"],
+                "answerIndex": 0,
+                "explanation": "Roquefort’s PDO rules specify raw whole milk from Lacaune sheep.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_015",
+                "prompt": "Surströmming is traditionally made from which fish?",
+                "choices": [
+                    "Baltic herring",
+                    "Atlantic mackerel",
+                    "Sardine",
+                    "Anchovy"
+                ],
+                "answerIndex": 0,
+                "explanation": "Surströmming is lightly salted, fermented Baltic herring.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_016",
+                "prompt": "Nixtamalization most typically involves soaking and cooking maize in an alkaline solution usually made with:",
+                "choices": [
+                    "Limewater (calcium hydroxide)",
+                    "Vinegar (acetic acid)",
+                    "Sea salt brine",
+                    "Ethanol"
+                ],
+                "answerIndex": 0,
+                "explanation": "Nixtamalization uses an alkaline bath, commonly limewater (calcium hydroxide), to treat corn.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_017",
+                "prompt": "The pastry name “kouign-amann” comes from Breton words meaning:",
+                "choices": [
+                    "Cake and butter",
+                    "Sugar and cream",
+                    "Bread and salt",
+                    "Apple and cinnamon"
+                ],
+                "answerIndex": 0,
+                "explanation": "Kouign-amann literally derives from Breton words for “cake” (kouign) and “butter” (amann).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_018",
+                "prompt": "Which compound is famously described as having a banana-like odor and is often called “banana oil” in flavoring contexts?",
+                "choices": [
+                    "Isoamyl acetate",
+                    "Acetaldehyde",
+                    "Diacetyl",
+                    "Ethyl vanillin"
+                ],
+                "answerIndex": 0,
+                "explanation": "Isoamyl acetate (isopentyl acetate) is a classic banana-scented ester used in flavorings.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_019",
+                "prompt": "The primary toxic principles in chocolate for dogs are methylxanthines, especially:",
+                "choices": [
+                    "Theobromine (and caffeine)",
+                    "Histamine (and tyramine)",
+                    "Solanine (and tomatine)",
+                    "Nicotine (and atropine)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Chocolate toxicosis is mainly due to theobromine, with caffeine also contributing.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_020",
+                "prompt": "Agar-agar used as a gelling agent is extracted primarily from:",
+                "choices": [
+                    "Red algae (Rhodophyceae)",
+                    "Brown algae (kelp)",
+                    "Mushroom mycelium",
+                    "Citrus peels"
+                ],
+                "answerIndex": 0,
+                "explanation": "Agar is a purified extract from red seaweeds (notably Gelidium/Gracilaria).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_021",
+                "prompt": "Koji mold used to ferment soybeans for miso (and to help make sake/soy sauce) is:",
+                "choices": [
+                    "Aspergillus oryzae",
+                    "Penicillium camemberti",
+                    "Rhizopus oligosporus",
+                    "Lactobacillus plantarum"
+                ],
+                "answerIndex": 0,
+                "explanation": "Aspergillus oryzae is the classic kōji mold used across several East Asian fermentations.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_022",
+                "prompt": "TABASCO® Brand’s pepper mash is aged in white oak barrels for up to:",
+                "choices": ["3 years", "3 weeks", "6 months", "10 years"],
+                "answerIndex": 0,
+                "explanation": "TABASCO® states its pepper mash is barrel-aged in white oak for up to three years.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_023",
+                "prompt": "On caviar labels, the term “malossol” most literally means:",
+                "choices": [
+                    "Lightly salted",
+                    "Cold-smoked",
+                    "Wild-caught",
+                    "Aged in oak"
+                ],
+                "answerIndex": 0,
+                "explanation": "Malossol is a Russian-derived term meaning “lightly/weakly salted.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_024",
+                "prompt": "Carmine (often associated with cochineal) is traditionally obtained from which insect species?",
+                "choices": [
+                    "Dactylopius coccus",
+                    "Apis mellifera",
+                    "Tenebrio molitor",
+                    "Bombyx mori"
+                ],
+                "answerIndex": 0,
+                "explanation": "Carmine dye historically comes from cochineal insects, especially female Dactylopius coccus.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_025",
+                "prompt": "Annatto (E160b) food coloring is derived from the seeds of which plant?",
+                "choices": [
+                    "Bixa orellana (achiote)",
+                    "Crocus sativus (saffron crocus)",
+                    "Piper nigrum (black pepper)",
+                    "Vanilla planifolia (vanilla orchid)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Annatto is obtained from the seeds of the achiote tree, Bixa orellana (E160b in the EU).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_026",
+                "prompt": "Katsuobushi—the smoky, fermented ingredient shaved into bonito flakes—is made from which fish?",
+                "choices": [
+                    "Skipjack tuna (Katsuwonus pelamis)",
+                    "Atlantic cod (Gadus morhua)",
+                    "Bluefin tuna (Thunnus thynnus)",
+                    "Sardine (Sardina pilchardus)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Katsuobushi is traditionally dried, smoked, and fermented skipjack tuna (Katsuwonus pelamis).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_027",
+                "prompt": "The numbing/tingling sensation (málà) from Sichuan peppercorns is strongly associated with which compound?",
+                "choices": [
+                    "Hydroxy-α-sanshool",
+                    "Capsaicin",
+                    "Menthol",
+                    "Eugenol"
+                ],
+                "answerIndex": 0,
+                "explanation": "Hydroxy-α-sanshool from Zanthoxylum (Sichuan pepper) is linked to the characteristic tingling numbness.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_028",
+                "prompt": "A sulfur-containing compound often described as central to the aroma of white truffle (Tuber magnatum) is:",
+                "choices": [
+                    "2,4-dithiapentane",
+                    "Methyl salicylate",
+                    "Isoamyl alcohol",
+                    "Ethyl acetate"
+                ],
+                "answerIndex": 0,
+                "explanation": "2,4-dithiapentane is widely cited as a core sulfur aroma component in white truffle.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_029",
+                "prompt": "Quinoa is a pseudocereal; botanically it belongs to which plant family?",
+                "choices": [
+                    "Amaranthaceae",
+                    "Poaceae",
+                    "Brassicaceae",
+                    "Fabaceae"
+                ],
+                "answerIndex": 0,
+                "explanation": "Quinoa (Chenopodium quinoa) is in Amaranthaceae, related to plants like spinach and beets—not grasses (Poaceae).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_030",
+                "prompt": "Despite its name, buckwheat is not wheat; it is in Polygonaceae and is related to:",
+                "choices": [
+                    "Rhubarb and sorrel",
+                    "Barley and oats",
+                    "Soybeans and peas",
+                    "Cabbage and mustard"
+                ],
+                "answerIndex": 0,
+                "explanation": "Buckwheat (Fagopyrum) is in Polygonaceae, the same family that includes rhubarb and sorrel.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_031",
+                "prompt": "The traditional dark, glossy crust on Bavarian-style pretzels is produced by dipping the dough in an alkaline solution of:",
+                "choices": [
+                    "Sodium hydroxide (lye)",
+                    "Sodium chloride (salt)",
+                    "Citric acid",
+                    "Gelatin"
+                ],
+                "answerIndex": 0,
+                "explanation": "A lye (sodium hydroxide) dip is the classic method to promote intense browning and gloss on pretzels.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_032",
+                "prompt": "Under EU PDO rules, feta is produced from sheep’s milk, or a mixture of sheep’s milk with up to what maximum percentage of goat’s milk?",
+                "choices": ["30%", "10%", "50%", "70%"],
+                "answerIndex": 0,
+                "explanation": "PDO feta allows a mixture of sheep’s milk with up to 30% goat’s milk from the defined region.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_033",
+                "prompt": "Black garlic is best described as garlic that has been:",
+                "choices": [
+                    "Aged for weeks in warm, humid conditions (Maillard reaction)",
+                    "Pickled in vinegar overnight",
+                    "Cold-smoked for 24 hours",
+                    "Freeze-dried and rehydrated"
+                ],
+                "answerIndex": 0,
+                "explanation": "Black garlic is produced by aging whole garlic in warm, humid, controlled conditions, causing Maillard reactions that darken and sweeten it.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_034",
+                "prompt": "Why do Padrón peppers sometimes taste hot even though many are mild?",
+                "choices": [
+                    "Capsaicinoid levels vary from pepper to pepper",
+                    "They are coated in powdered chili by default",
+                    "They contain quinine in the skin",
+                    "They become hot only after freezing"
+                ],
+                "answerIndex": 0,
+                "explanation": "Padrón peppers are a “roulette” pepper: capsaicinoid accumulation varies, so some fruits are significantly hotter than others.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_035",
+                "prompt": "Earl Grey tea is traditionally flavored with the oil of which citrus fruit?",
+                "choices": ["Bergamot", "Yuzu", "Calamansi", "Kumquat"],
+                "answerIndex": 0,
+                "explanation": "Classic Earl Grey is black tea flavored with bergamot oil.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_036",
+                "prompt": "The characteristic bitterness of tonic water is primarily due to the presence of:",
+                "choices": ["Quinine", "Caffeine", "Tannins", "Capsaicin"],
+                "answerIndex": 0,
+                "explanation": "Tonic water’s signature bitter taste comes from quinine.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_037",
+                "prompt": "In the traditional method used for Champagne, where does the second fermentation that creates bubbles occur?",
+                "choices": [
+                    "Inside the sealed bottle",
+                    "In an open vat before bottling",
+                    "In a stainless-steel pressure tank",
+                    "In the vineyard on the grape skins"
+                ],
+                "answerIndex": 0,
+                "explanation": "Méthode traditionnelle relies on a second fermentation inside the bottle to produce carbonation.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_038",
+                "prompt": "The edible plant most commonly sold as “wasabi” is scientifically classified as:",
+                "choices": [
+                    "Eutrema japonicum",
+                    "Capsicum annuum",
+                    "Armoracia rusticana",
+                    "Brassica oleracea"
+                ],
+                "answerIndex": 0,
+                "explanation": "True wasabi is Eutrema japonicum (syn. Wasabia japonica).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_039",
+                "prompt": "Which statement best matches the traditional definition of caviar (in the strictest, classic sense)?",
+                "choices": [
+                    "Salt-cured roe of sturgeon (family Acipenseridae)",
+                    "Any fish eggs served as a garnish",
+                    "Only salmon roe",
+                    "Only roe from wild fish in the Pacific"
+                ],
+                "answerIndex": 0,
+                "explanation": "Traditionally, “caviar” refers to salt-cured sturgeon roe (Acipenseridae), though modern usage can be broader.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "food_040",
+                "prompt": "Surströmming is famous for its strong smell, but what is its primary preservation/processing style?",
+                "choices": [
+                    "Lightly salted fermentation",
+                    "Heavy smoking and drying",
+                    "Vinegar pickling with sugar",
+                    "Oil confit at low temperature"
+                ],
+                "answerIndex": 0,
+                "explanation": "Surströmming is lightly salted herring that is allowed to ferment (not smoked or pickled in vinegar).",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

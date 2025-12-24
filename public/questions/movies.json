@@ -1,0 +1,524 @@
+{
+    "version": 1,
+    "category": {
+        "id": "movies",
+        "name": "Movies",
+        "questions": [
+            {
+                "id": "movies_001",
+                "prompt": "Which film contains the quote: \"Say 'hello' to my little friend!\"",
+                "choices": [
+                    "Scarface",
+                    "Carlito's Way",
+                    "Heat",
+                    "The Untouchables"
+                ],
+                "answerIndex": 0,
+                "explanation": "This line is from Tony Montana in *Scarface* (AFI Movie Quotes list rank #61).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_002",
+                "prompt": "Which film contains the quote: \"What a dump.\"",
+                "choices": [
+                    "Beyond the Forest",
+                    "All About Eve",
+                    "Whatever Happened to Baby Jane?",
+                    "The Letter"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this quote to *Beyond the Forest* (rank #62).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_003",
+                "prompt": "Which film contains the quote: \"Mrs. Robinson, you're trying to seduce me. Aren't you?\"",
+                "choices": [
+                    "The Graduate",
+                    "The Apartment",
+                    "Midnight Cowboy",
+                    "Kramer vs. Kramer"
+                ],
+                "answerIndex": 0,
+                "explanation": "This line is spoken by Benjamin Braddock in *The Graduate* (AFI rank #63).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_004",
+                "prompt": "Which film contains the quote: \"Gentlemen, you can't fight in here! This is the War Room!\"",
+                "choices": [
+                    "Dr. Strangelove",
+                    "Fail Safe",
+                    "Seven Days in May",
+                    "The War Room"
+                ],
+                "answerIndex": 0,
+                "explanation": "This famous gag line comes from *Dr. Strangelove* (AFI rank #64).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_005",
+                "prompt": "Which film contains the quote: \"Elementary, my dear Watson.\"",
+                "choices": [
+                    "The Adventures of Sherlock Holmes",
+                    "The Hound of the Baskervilles",
+                    "Murder by Decree",
+                    "Sherlock Holmes (2009)"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote under *The Adventures of Sherlock Holmes* (rank #65).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_006",
+                "prompt": "Which film contains the quote: \"Take your stinking paws off me, you damned dirty ape.\"",
+                "choices": [
+                    "Planet of the Apes",
+                    "King Kong",
+                    "The Time Machine",
+                    "Beneath the Planet of the Apes"
+                ],
+                "answerIndex": 0,
+                "explanation": "This line is from George Taylor in *Planet of the Apes* (AFI rank #66).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_007",
+                "prompt": "Which film contains the quote: \"Of all the gin joints in all the towns in all the world, she walks into mine.\"",
+                "choices": [
+                    "Casablanca",
+                    "To Have and Have Not",
+                    "The Big Sleep",
+                    "Notorious"
+                ],
+                "answerIndex": 0,
+                "explanation": "This quote is from Rick Blaine in *Casablanca* (AFI rank #67).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_008",
+                "prompt": "Which film contains the quote: \"Here's Johnny!\"",
+                "choices": ["The Shining", "Carrie", "Misery", "The Exorcist"],
+                "answerIndex": 0,
+                "explanation": "AFI includes this as a quote from *The Shining* (rank #68).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_009",
+                "prompt": "Which film contains the quote: \"They're here!\"",
+                "choices": [
+                    "Poltergeist",
+                    "The Omen",
+                    "The Exorcist",
+                    "The Amityville Horror"
+                ],
+                "answerIndex": 0,
+                "explanation": "This line is attributed by AFI to *Poltergeist* (rank #69).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_010",
+                "prompt": "Which film contains the quote: \"Is it safe?\"",
+                "choices": [
+                    "Marathon Man",
+                    "Three Days of the Condor",
+                    "The Parallax View",
+                    "The French Connection"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this tense question from *Marathon Man* (rank #70).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_011",
+                "prompt": "Which film contains the quote: \"You ain't heard nothin' yet!\"",
+                "choices": [
+                    "The Jazz Singer",
+                    "Singin' in the Rain",
+                    "42nd Street",
+                    "The Artist"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this early sound-era line to *The Jazz Singer* (rank #71).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_012",
+                "prompt": "Which film contains the quote: \"No wire hangers, ever!\"",
+                "choices": [
+                    "Mommie Dearest",
+                    "All About Eve",
+                    "Sunset Boulevard",
+                    "Whatever Happened to Baby Jane?"
+                ],
+                "answerIndex": 0,
+                "explanation": "This line is from *Mommie Dearest* (AFI rank #72).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_013",
+                "prompt": "Which film contains the quote: \"Mother of mercy, is this the end of Rico?\"",
+                "choices": [
+                    "Little Caesar",
+                    "Scarface (1932)",
+                    "The Public Enemy",
+                    "White Heat"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote from *Little Caesar* (rank #73).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_014",
+                "prompt": "Which film contains the quote: \"Forget it, Jake, it's Chinatown.\"",
+                "choices": [
+                    "Chinatown",
+                    "L.A. Confidential",
+                    "The Long Goodbye",
+                    "The Two Jakes"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this line to *Chinatown* (rank #74).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_015",
+                "prompt": "Which film contains the quote: \"I have always depended on the kindness of strangers.\"",
+                "choices": [
+                    "A Streetcar Named Desire",
+                    "Cat on a Hot Tin Roof",
+                    "Who's Afraid of Virginia Woolf?",
+                    "A Place in the Sun"
+                ],
+                "answerIndex": 0,
+                "explanation": "This quote is from Blanche DuBois in *A Streetcar Named Desire* (AFI rank #75).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_016",
+                "prompt": "Which film contains the quote: \"Hasta la vista, baby.\"",
+                "choices": [
+                    "Terminator 2: Judgment Day",
+                    "The Terminator",
+                    "RoboCop",
+                    "Predator"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this line from *Terminator 2: Judgment Day* (rank #76).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_017",
+                "prompt": "Which film contains the quote: \"Soylent Green is people!\"",
+                "choices": [
+                    "Soylent Green",
+                    "Logan's Run",
+                    "The Omega Man",
+                    "The Andromeda Strain"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this reveal line to *Soylent Green* (rank #77).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_018",
+                "prompt": "Which film contains the quote: \"Open the pod bay doors, HAL.\"",
+                "choices": [
+                    "2001: A Space Odyssey",
+                    "Silent Running",
+                    "Solaris",
+                    "Close Encounters of the Third Kind"
+                ],
+                "answerIndex": 0,
+                "explanation": "This quote is listed by AFI under *2001: A Space Odyssey* (rank #78).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_019",
+                "prompt": "Which film contains the quote: \"Striker: \"Surely you can't be serious.\" / Rumack: \"I am serious ... and don't call me Shirley.\"\"",
+                "choices": [
+                    "Airplane!",
+                    "Top Secret!",
+                    "The Naked Gun",
+                    "Caddyshack"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this exchange to *Airplane!* (rank #79).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_020",
+                "prompt": "Which film contains the quote: \"Yo, Adrian!\"",
+                "choices": [
+                    "Rocky",
+                    "Raging Bull",
+                    "The Champ",
+                    "Million Dollar Baby"
+                ],
+                "answerIndex": 0,
+                "explanation": "This quote is from Rocky Balboa in *Rocky* (AFI rank #80).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_021",
+                "prompt": "Which film contains the quote: \"Hello, gorgeous.\"",
+                "choices": [
+                    "Funny Girl",
+                    "Hello, Dolly!",
+                    "Cabaret",
+                    "The Way We Were"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this opening-line quote from *Funny Girl* (rank #81).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_022",
+                "prompt": "Which film contains the quote: \"Toga! Toga!\"",
+                "choices": [
+                    "National Lampoon's Animal House",
+                    "Revenge of the Nerds",
+                    "Porky's",
+                    "Fast Times at Ridgemont High"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this chant to *National Lampoon's Animal House* (rank #82).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_023",
+                "prompt": "Which film contains the quote: \"Listen to them. Children of the night. What music they make.\"",
+                "choices": [
+                    "Dracula (1931)",
+                    "Nosferatu",
+                    "Bram Stoker's Dracula",
+                    "Interview with the Vampire"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this as a quote from *Dracula* (1931) (rank #83).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_024",
+                "prompt": "Which film contains the quote: \"Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.\"",
+                "choices": [
+                    "King Kong (1933)",
+                    "Mighty Joe Young",
+                    "Creature from the Black Lagoon",
+                    "The Lost World (1925)"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this closing line to *King Kong* (1933) (rank #84).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_025",
+                "prompt": "Which film contains the quote: \"My precious.\"",
+                "choices": [
+                    "The Lord of the Rings: The Two Towers",
+                    "The Lord of the Rings: The Fellowship of the Ring",
+                    "The Lord of the Rings: The Return of the King",
+                    "The Hobbit: An Unexpected Journey"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists 'My precious' under *The Lord of the Rings: The Two Towers* (rank #85).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_026",
+                "prompt": "Which film contains the quote: \"Attica! Attica!\"",
+                "choices": [
+                    "Dog Day Afternoon",
+                    "Serpico",
+                    "The Taking of Pelham One Two Three",
+                    "Network"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this chant to *Dog Day Afternoon* (rank #86).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_027",
+                "prompt": "Which film contains the quote: \"You're going out a youngster, but you've got to come back a star!\"",
+                "choices": [
+                    "42nd Street",
+                    "Gold Diggers of 1933",
+                    "Singin' in the Rain",
+                    "Cabaret"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this backstage pep-talk line from *42nd Street* (rank #87).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_028",
+                "prompt": "Which film contains the quote: \"You're my knight in shining armor. Don't you forget it.\"",
+                "choices": [
+                    "On Golden Pond",
+                    "Guess Who's Coming to Dinner",
+                    "The Philadelphia Story",
+                    "Kramer vs. Kramer"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this line (excerpted from a longer speech) to *On Golden Pond* (rank #88).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_029",
+                "prompt": "Which film contains the quote: \"Win just one for the Gipper.\"",
+                "choices": [
+                    "Knute Rockne, All American",
+                    "The Pride of the Yankees",
+                    "Rudy",
+                    "Angels in the Outfield"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote in *Knute Rockne, All American* (rank #89).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_030",
+                "prompt": "Which film contains the quote: \"A martini. Shaken, not stirred.\"",
+                "choices": [
+                    "Goldfinger",
+                    "Dr. No",
+                    "From Russia with Love",
+                    "Thunderball"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this line to *Goldfinger* (rank #90).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_031",
+                "prompt": "Which film contains the quote: \"Who's on first.\"",
+                "choices": [
+                    "The Naughty Nineties",
+                    "Buck Privates",
+                    "Hold That Ghost",
+                    "At the Circus"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this classic routine line under *The Naughty Nineties* (rank #91).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_032",
+                "prompt": "Which film contains the quote: \"Cinderella story. Outta nowhere.\"",
+                "choices": [
+                    "Caddyshack",
+                    "Tin Cup",
+                    "Happy Gilmore",
+                    "National Lampoon's Vacation"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this quote (excerpted from a longer monologue) to *Caddyshack* (rank #92).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_033",
+                "prompt": "Which film contains the quote: \"Life is a banquet, and most poor suckers are starving to death!\"",
+                "choices": [
+                    "Auntie Mame",
+                    "The Women",
+                    "All About Eve",
+                    "The Philadelphia Story"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote from *Auntie Mame* (rank #93).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_034",
+                "prompt": "Which film contains the quote: \"I feel the need—the need for speed!\"",
+                "choices": [
+                    "Top Gun",
+                    "Days of Thunder",
+                    "Iron Eagle",
+                    "An Officer and a Gentleman"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this line to *Top Gun* (rank #94).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_035",
+                "prompt": "Which film contains the quote: \"Carpe diem. Seize the day, boys. Make your lives extraordinary.\"",
+                "choices": [
+                    "Dead Poets Society",
+                    "Good Will Hunting",
+                    "Stand and Deliver",
+                    "School Ties"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote from *Dead Poets Society* (rank #95).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_036",
+                "prompt": "Which film contains the quote: \"Snap out of it!\"",
+                "choices": [
+                    "Moonstruck",
+                    "Working Girl",
+                    "Broadcast News",
+                    "Mermaids"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this quote to *Moonstruck* (rank #96).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_037",
+                "prompt": "Which film contains the quote: \"My mother thanks you. My father thanks you. My sister thanks you. And I thank you.\"",
+                "choices": [
+                    "Yankee Doodle Dandy",
+                    "Holiday Inn",
+                    "White Christmas",
+                    "Captain Blood"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this curtain-speech line in *Yankee Doodle Dandy* (rank #97).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_038",
+                "prompt": "Which film contains the quote: \"Nobody puts Baby in a corner.\"",
+                "choices": [
+                    "Dirty Dancing",
+                    "Flashdance",
+                    "Footloose",
+                    "Saturday Night Fever"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI attributes this line to *Dirty Dancing* (rank #98).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_039",
+                "prompt": "Which film contains the quote: \"I'll get you, my pretty, and your little dog too!\"",
+                "choices": [
+                    "The Wizard of Oz",
+                    "Return to Oz",
+                    "Hocus Pocus",
+                    "Snow White and the Seven Dwarfs"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote from the Wicked Witch in *The Wizard of Oz* (rank #99).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "movies_040",
+                "prompt": "Which film contains the quote: \"I'm the king of the world!\"",
+                "choices": [
+                    "Titanic",
+                    "A Night to Remember",
+                    "The Poseidon Adventure",
+                    "Pearl Harbor"
+                ],
+                "answerIndex": 0,
+                "explanation": "AFI lists this quote from *Titanic* (rank #100).",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

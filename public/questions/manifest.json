@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "files": [
+    "history.json",
+    "science.json",
+    "sports.json",
+    "movies.json",
+    "music.json",
+    "geography.json",
+    "literature.json",
+    "technology.json",
+    "food.json"
+  ]
+}

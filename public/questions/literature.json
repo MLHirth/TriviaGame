@@ -1,0 +1,529 @@
+{
+    "version": 1,
+    "category": {
+        "id": "literature",
+        "name": "Literature",
+        "questions": [
+            {
+                "id": "literature_001",
+                "prompt": "Which novel opens with: \"You will rejoice to hear that no disaster has accompanied the commencement...\"?",
+                "choices": [
+                    "Frankenstein",
+                    "Dracula",
+                    "Wuthering Heights",
+                    "The Strange Case of Dr Jekyll and Mr Hyde"
+                ],
+                "answerIndex": 0,
+                "explanation": "It’s the first line of Mary Shelley’s epistolary novel Frankenstein.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_002",
+                "prompt": "Which novel begins: \"Miss Brooke had that kind of beauty which seems to be thrown into relief...\"?",
+                "choices": [
+                    "Middlemarch",
+                    "North and South",
+                    "The Mill on the Floss",
+                    "Vanity Fair"
+                ],
+                "answerIndex": 0,
+                "explanation": "This is the opening line of George Eliot’s Middlemarch.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_003",
+                "prompt": "Which work opens with: \"As Gregor Samsa awoke from a night of uneasy dreaming...\"?",
+                "choices": [
+                    "The Metamorphosis",
+                    "The Trial",
+                    "Crime and Punishment",
+                    "The Stranger"
+                ],
+                "answerIndex": 0,
+                "explanation": "Kafka’s The Metamorphosis begins with Gregor Samsa’s transformation.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_004",
+                "prompt": "Which novel starts: \"Someone must have slandered Josef K., for one morning... he was arrested.\"?",
+                "choices": [
+                    "The Trial",
+                    "The Castle",
+                    "The Metamorphosis",
+                    "Notes from Underground"
+                ],
+                "answerIndex": 0,
+                "explanation": "That’s the famous opening of Franz Kafka’s The Trial.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_005",
+                "prompt": "Which novel begins: \"Stately, plump Buck Mulligan came from the stairhead...\"?",
+                "choices": [
+                    "Ulysses",
+                    "Dubliners",
+                    "A Portrait of the Artist as a Young Man",
+                    "Finnegans Wake"
+                ],
+                "answerIndex": 0,
+                "explanation": "James Joyce opens Ulysses with Buck Mulligan’s entrance.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_006",
+                "prompt": "Which novel opens with: \"Well, Prince, so Genoa and Lucca are now just family estates...\"?",
+                "choices": [
+                    "War and Peace",
+                    "Anna Karenina",
+                    "The Brothers Karamazov",
+                    "Fathers and Sons"
+                ],
+                "answerIndex": 0,
+                "explanation": "This is the opening line of Leo Tolstoy’s War and Peace.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_007",
+                "prompt": "Which novel begins: \"He was an old man who fished alone in a skiff in the Gulf Stream...\"?",
+                "choices": [
+                    "The Old Man and the Sea",
+                    "The Pearl",
+                    "Moby-Dick",
+                    "The Sea-Wolf"
+                ],
+                "answerIndex": 0,
+                "explanation": "Ernest Hemingway’s The Old Man and the Sea opens this way.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_008",
+                "prompt": "Which novel starts with: \"Okonkwo was well known throughout the nine villages...\"?",
+                "choices": [
+                    "Things Fall Apart",
+                    "Arrow of God",
+                    "Heart of Darkness",
+                    "The African Child"
+                ],
+                "answerIndex": 0,
+                "explanation": "Chinua Achebe introduces Okonkwo at the start of Things Fall Apart.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_009",
+                "prompt": "Which novel begins: \"When he was nearly thirteen, my brother Jem got his arm badly broken...\"?",
+                "choices": [
+                    "To Kill a Mockingbird",
+                    "The Catcher in the Rye",
+                    "A Separate Peace",
+                    "Lord of the Flies"
+                ],
+                "answerIndex": 0,
+                "explanation": "Harper Lee opens To Kill a Mockingbird with Jem’s broken arm as a framing device.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_010",
+                "prompt": "Which novel starts: \"The Time Traveller (for so it will be convenient to speak of him)...\"?",
+                "choices": [
+                    "The Time Machine",
+                    "The Invisible Man",
+                    "The War of the Worlds",
+                    "Twenty Thousand Leagues Under the Seas"
+                ],
+                "answerIndex": 0,
+                "explanation": "H. G. Wells opens The Time Machine by naming “the Time Traveller.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_011",
+                "prompt": "Which book opens with: \"One thing was certain, that the white kitten had nothing to do with it...\"?",
+                "choices": [
+                    "Through the Looking-Glass",
+                    "Alice's Adventures in Wonderland",
+                    "The Wind in the Willows",
+                    "Peter Pan"
+                ],
+                "answerIndex": 0,
+                "explanation": "Lewis Carroll begins Through the Looking-Glass with the kittens’ “mischief.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_012",
+                "prompt": "Which novel opens: \"No one would have believed... that this world was being watched...\"?",
+                "choices": [
+                    "The War of the Worlds",
+                    "The Time Machine",
+                    "The First Men in the Moon",
+                    "The Lost World"
+                ],
+                "answerIndex": 0,
+                "explanation": "The ominous opening belongs to H. G. Wells’s The War of the Worlds.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_013",
+                "prompt": "Which story begins: \"To Sherlock Holmes she is always the woman.\"?",
+                "choices": [
+                    "A Scandal in Bohemia",
+                    "The Speckled Band",
+                    "The Final Problem",
+                    "The Hound of the Baskervilles"
+                ],
+                "answerIndex": 0,
+                "explanation": "Arthur Conan Doyle opens “A Scandal in Bohemia” with Holmes’s view of Irene Adler.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_014",
+                "prompt": "Which novel begins: \"Through the fence, between the curling flower spaces, I could see them hitting.\"?",
+                "choices": [
+                    "The Sound and the Fury",
+                    "As I Lay Dying",
+                    "Light in August",
+                    "Absalom, Absalom!"
+                ],
+                "answerIndex": 0,
+                "explanation": "William Faulkner opens The Sound and the Fury with Benjy’s perspective.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_015",
+                "prompt": "Which novel begins: \"When a day that you happen to know is Wednesday starts off by sounding like Sunday...\"?",
+                "choices": [
+                    "The Day of the Triffids",
+                    "The Chrysalids",
+                    "Brave New World",
+                    "A Clockwork Orange"
+                ],
+                "answerIndex": 0,
+                "explanation": "That’s the disorienting opening of John Wyndham’s The Day of the Triffids.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_016",
+                "prompt": "Which novel opens with: \"'Take my camel, dear,' said my aunt Dot...\"?",
+                "choices": [
+                    "The Towers of Trebizond",
+                    "The Alexandria Quartet",
+                    "Brideshead Revisited",
+                    "A Room with a View"
+                ],
+                "answerIndex": 0,
+                "explanation": "Rose Macaulay’s The Towers of Trebizond starts with this comic line.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_017",
+                "prompt": "Which novel begins: \"The sweat wis lashing oafay Sick Boy; he wis trembling.\"?",
+                "choices": [
+                    "Trainspotting",
+                    "A Confederacy of Dunces",
+                    "Naked Lunch",
+                    "Less Than Zero"
+                ],
+                "answerIndex": 0,
+                "explanation": "Irvine Welsh opens Trainspotting in Scots dialect.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_018",
+                "prompt": "Which novel opens (in part): \"I wish either my father or my mother... had minded what they were about...\"?",
+                "choices": [
+                    "Tristram Shandy",
+                    "Gulliver's Travels",
+                    "Tom Jones",
+                    "Candide"
+                ],
+                "answerIndex": 0,
+                "explanation": "Laurence Sterne’s Tristram Shandy begins with a famously digressive complaint about conception.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_019",
+                "prompt": "Which book begins: \"When I wrote the following pages... I lived alone, in the woods...\"?",
+                "choices": [
+                    "Walden",
+                    "Civil Disobedience",
+                    "Leaves of Grass",
+                    "Self-Reliance"
+                ],
+                "answerIndex": 0,
+                "explanation": "Henry David Thoreau opens Walden by describing his life at Walden Pond.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_020",
+                "prompt": "Which novel opens: \"Once upon a time when the world was young there was a Martian named Smith.\"?",
+                "choices": [
+                    "Stranger in a Strange Land",
+                    "The Martian Chronicles",
+                    "Dune",
+                    "A Canticle for Leibowitz"
+                ],
+                "answerIndex": 0,
+                "explanation": "Robert A. Heinlein begins Stranger in a Strange Land with Valentine Michael Smith.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_021",
+                "prompt": "Which work begins: \"There was Eru, the One, who in Arda is called Ilúvatar...\"?",
+                "choices": [
+                    "The Silmarillion",
+                    "The Hobbit",
+                    "The Lord of the Rings",
+                    "The Children of Húrin"
+                ],
+                "answerIndex": 0,
+                "explanation": "J. R. R. Tolkien opens The Silmarillion with the Ainulindalë and Eru Ilúvatar.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_022",
+                "prompt": "Which novel opens: \"His name was Gaal Dornick and he was just a country boy...\"?",
+                "choices": [
+                    "Foundation",
+                    "Dune",
+                    "Neuromancer",
+                    "The Left Hand of Darkness"
+                ],
+                "answerIndex": 0,
+                "explanation": "Isaac Asimov’s Foundation begins by introducing Gaal Dornick.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_023",
+                "prompt": "Which novel begins: \"The Galactic Empire was dying.\"?",
+                "choices": [
+                    "Foundation and Empire",
+                    "Second Foundation",
+                    "Dune Messiah",
+                    "Hyperion"
+                ],
+                "answerIndex": 0,
+                "explanation": "This blunt opener starts Asimov’s Foundation and Empire.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_024",
+                "prompt": "Which novel opens: \"It was a wrong number that started it...\"?",
+                "choices": [
+                    "City of Glass",
+                    "The Crying of Lot 49",
+                    "White Noise",
+                    "The Name of the Rose"
+                ],
+                "answerIndex": 0,
+                "explanation": "Paul Auster starts City of Glass with a misdialed call that triggers the plot.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_025",
+                "prompt": "Which novel begins with the description: \"He was an inch, perhaps two, under six feet, powerfully built...\"?",
+                "choices": [
+                    "Lord Jim",
+                    "Heart of Darkness",
+                    "The Secret Agent",
+                    "Kim"
+                ],
+                "answerIndex": 0,
+                "explanation": "Joseph Conrad opens Lord Jim with a portrait of Jim’s physical presence.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_026",
+                "prompt": "Which novella begins: \"A few miles south of Soledad, the Salinas River drops in close...\"?",
+                "choices": [
+                    "Of Mice and Men",
+                    "East of Eden",
+                    "The Grapes of Wrath",
+                    "Cannery Row"
+                ],
+                "answerIndex": 0,
+                "explanation": "John Steinbeck sets the scene for Of Mice and Men along the Salinas River.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_027",
+                "prompt": "Which novel begins: \"I am the vampire Lestat.\"?",
+                "choices": [
+                    "The Vampire Lestat",
+                    "Interview with the Vampire",
+                    "Dracula",
+                    "Carmilla"
+                ],
+                "answerIndex": 0,
+                "explanation": "Anne Rice’s The Vampire Lestat opens with Lestat’s direct introduction.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_028",
+                "prompt": "Which novel opens with the triple question: \"Where now? Who now? When now?\"?",
+                "choices": [
+                    "The Unnamable",
+                    "Molloy",
+                    "Waiting for Godot",
+                    "The Stranger"
+                ],
+                "answerIndex": 0,
+                "explanation": "Samuel Beckett opens The Unnamable with these disorienting questions.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_029",
+                "prompt": "Which novel opens: \"I returned from the City about three o'clock on that May afternoon...\"?",
+                "choices": [
+                    "The Thirty-Nine Steps",
+                    "The Riddle of the Sands",
+                    "The Woman in White",
+                    "The Moonstone"
+                ],
+                "answerIndex": 0,
+                "explanation": "John Buchan begins The Thirty-Nine Steps with Richard Hannay back from London.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_030",
+                "prompt": "Which novel begins: \"Late in the afternoon of a chilly day in February, two gentlemen were sitting...\"?",
+                "choices": [
+                    "Uncle Tom's Cabin",
+                    "Little Women",
+                    "The Scarlet Letter",
+                    "The Adventures of Huckleberry Finn"
+                ],
+                "answerIndex": 0,
+                "explanation": "Harriet Beecher Stowe opens Uncle Tom’s Cabin with two men in a Kentucky parlor.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_031",
+                "prompt": "Which novel opens: \"People do not give it credence that a fourteen-year-old girl could leave home...\"?",
+                "choices": [
+                    "True Grit",
+                    "The Outsiders",
+                    "A Tree Grows in Brooklyn",
+                    "The Secret History"
+                ],
+                "answerIndex": 0,
+                "explanation": "Charles Portis begins True Grit with Mattie Ross’s matter-of-fact narration.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_032",
+                "prompt": "Which novel begins: \"Behind every man now alive stand thirty ghosts...\"?",
+                "choices": [
+                    "2001: A Space Odyssey",
+                    "Brave New World",
+                    "Slaughterhouse-Five",
+                    "Solaris"
+                ],
+                "answerIndex": 0,
+                "explanation": "Arthur C. Clarke opens 2001: A Space Odyssey with this population/ancestry observation.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_033",
+                "prompt": "Which novel opens: \"Granted: I AM an inmate of a mental hospital...\"?",
+                "choices": [
+                    "The Tin Drum",
+                    "Steppenwolf",
+                    "One Flew Over the Cuckoo's Nest",
+                    "The Bell Jar"
+                ],
+                "answerIndex": 0,
+                "explanation": "Günter Grass begins The Tin Drum with a self-conscious, conspiratorial narrator.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_034",
+                "prompt": "Which novel opens: \"Every summer Lin Kong returned to Goose Village to divorce his wife...\"?",
+                "choices": [
+                    "Waiting",
+                    "The Joy Luck Club",
+                    "The Namesake",
+                    "Pachinko"
+                ],
+                "answerIndex": 0,
+                "explanation": "Ha Jin opens Waiting with Lin Kong’s annual, bureaucratic attempt at divorce.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_035",
+                "prompt": "Which novel begins: \"The bench on which Dobbs was sitting was not so good.\"?",
+                "choices": [
+                    "The Treasure of the Sierra Madre",
+                    "The Maltese Falcon",
+                    "The Postman Always Rings Twice",
+                    "The Big Sleep"
+                ],
+                "answerIndex": 0,
+                "explanation": "B. Traven opens The Treasure of the Sierra Madre with Dobbs on an uncomfortable bench.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_036",
+                "prompt": "Which novel begins: \"He was born with the gift of laughter and a sense that the world was mad.\"?",
+                "choices": [
+                    "Scaramouche",
+                    "The Three Musketeers",
+                    "The Count of Monte Cristo",
+                    "The Scarlet Pimpernel"
+                ],
+                "answerIndex": 0,
+                "explanation": "Rafael Sabatini begins Scaramouche with this line about André-Louis Moreau.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_037",
+                "prompt": "Which novel opens: \"'To be born again,' sang Gibreel Farishta... 'first you have to die.'\"?",
+                "choices": [
+                    "The Satanic Verses",
+                    "Midnight's Children",
+                    "The Name of the Rose",
+                    "The Master and Margarita"
+                ],
+                "answerIndex": 0,
+                "explanation": "Salman Rushdie opens The Satanic Verses with Gibreel Farishta falling from the sky.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_038",
+                "prompt": "Which novel ends with: \"So we beat on, boats against the current, borne back ceaselessly...\"?",
+                "choices": [
+                    "The Great Gatsby",
+                    "This Side of Paradise",
+                    "Tender Is the Night",
+                    "The Sun Also Rises"
+                ],
+                "answerIndex": 0,
+                "explanation": "F. Scott Fitzgerald closes The Great Gatsby with this famous line.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_039",
+                "prompt": "Which novella opens: \"Mother died today. Or maybe yesterday; I can't be sure.\"?",
+                "choices": [
+                    "The Stranger",
+                    "Nausea",
+                    "The Plague",
+                    "Notes from Underground"
+                ],
+                "answerIndex": 0,
+                "explanation": "Albert Camus begins The Stranger (L'Étranger) with Meursault’s detached announcement.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "literature_040",
+                "prompt": "\"Better to reign in Hell, than serve in Heaven.\" is from which work?",
+                "choices": [
+                    "Paradise Lost",
+                    "Inferno",
+                    "Faust",
+                    "The Divine Comedy"
+                ],
+                "answerIndex": 0,
+                "explanation": "The line is from John Milton’s epic poem Paradise Lost (Book I).",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

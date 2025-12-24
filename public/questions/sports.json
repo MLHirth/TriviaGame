@@ -1,0 +1,509 @@
+{
+    "version": 1,
+    "category": {
+        "id": "sports",
+        "name": "Sports",
+        "questions": [
+            {
+                "id": "sports_001",
+                "prompt": "At the 2008 Beijing Olympics, which athlete won a record eight gold medals in a single Games?",
+                "choices": [
+                    "Michael Phelps",
+                    "Mark Spitz",
+                    "Usain Bolt",
+                    "Simone Biles"
+                ],
+                "answerIndex": 0,
+                "explanation": "Michael Phelps won eight gold medals at the 2008 Olympics, the most ever by an athlete at a single Games.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_002",
+                "prompt": "Which MLB player set the single-season home run record by hitting 73 in 2001?",
+                "choices": [
+                    "Barry Bonds",
+                    "Mark McGwire",
+                    "Sammy Sosa",
+                    "Roger Maris"
+                ],
+                "answerIndex": 0,
+                "explanation": "Barry Bonds hit 73 home runs in 2001, the MLB single-season record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_003",
+                "prompt": "Wilt Chamberlain’s 100-point NBA game (March 2, 1962) was played at which arena?",
+                "choices": [
+                    "Hershey Sports Arena",
+                    "Madison Square Garden",
+                    "The Palestra",
+                    "Boston Garden"
+                ],
+                "answerIndex": 0,
+                "explanation": "Chamberlain’s 100-point game was played at Hershey Sports Arena in Hershey, Pennsylvania.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_004",
+                "prompt": "Who won the Golden Boot at the 1990 FIFA World Cup (as top scorer)?",
+                "choices": [
+                    "Salvatore Schillaci",
+                    "Diego Maradona",
+                    "Gary Lineker",
+                    "Lothar Matthäus"
+                ],
+                "answerIndex": 0,
+                "explanation": "Italy’s Salvatore Schillaci finished as the 1990 World Cup top scorer and won the Golden Boot.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_005",
+                "prompt": "Who holds the record for the fastest Premier League hat-trick (2 minutes 56 seconds, 2015)?",
+                "choices": [
+                    "Sadio Mané",
+                    "Robbie Fowler",
+                    "Thierry Henry",
+                    "Sergio Agüero"
+                ],
+                "answerIndex": 0,
+                "explanation": "Sadio Mané set the Premier League record for fastest hat-trick (2:56) for Southampton vs Aston Villa in 2015.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_006",
+                "prompt": "The longest match in major tennis history (Isner vs Mahut, Wimbledon 2010) lasted how long?",
+                "choices": [
+                    "11 hours 5 minutes",
+                    "9 hours 32 minutes",
+                    "10 hours 12 minutes",
+                    "12 hours 18 minutes"
+                ],
+                "answerIndex": 0,
+                "explanation": "John Isner vs Nicolas Mahut at Wimbledon 2010 lasted 11 hours 5 minutes.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_007",
+                "prompt": "Which F1 driver set the record for most consecutive Grand Prix wins in a single season with 10 in 2023?",
+                "choices": [
+                    "Max Verstappen",
+                    "Lewis Hamilton",
+                    "Sebastian Vettel",
+                    "Michael Schumacher"
+                ],
+                "answerIndex": 0,
+                "explanation": "Max Verstappen set the single-season consecutive-wins record with 10 straight victories in 2023.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_008",
+                "prompt": "Which riders are tied for the most overall Tour de France general classification wins (five each)?",
+                "choices": [
+                    "Anquetil, Merckx, Hinault, Indurain",
+                    "Froome, Contador, Merckx, Hinault",
+                    "Coppi, Merckx, Indurain, Armstrong",
+                    "Anquetil, Coppi, Froome, Indurain"
+                ],
+                "answerIndex": 0,
+                "explanation": "Jacques Anquetil, Eddy Merckx, Bernard Hinault, and Miguel Indurain are tied with five Tour de France GC wins.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_009",
+                "prompt": "Who set the men’s 100m freestyle long-course world record of 46.91 seconds in 2009?",
+                "choices": [
+                    "César Cielo",
+                    "Michael Phelps",
+                    "Alain Bernard",
+                    "Caeleb Dressel"
+                ],
+                "answerIndex": 0,
+                "explanation": "César Cielo set the 100m freestyle world record (46.91) at the 2009 World Championships.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_010",
+                "prompt": "As of December 24, 2025, who holds the NFL record for the longest made field goal (68 yards)?",
+                "choices": [
+                    "Cam Little",
+                    "Justin Tucker",
+                    "Brandon Aubrey",
+                    "Harrison Butker"
+                ],
+                "answerIndex": 0,
+                "explanation": "Cam Little set the NFL record with a 68-yard field goal in 2025 (surpassing the prior record of 66).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_011",
+                "prompt": "Which NHL player holds the record for most points in a single season with 215 (1985–86)?",
+                "choices": [
+                    "Wayne Gretzky",
+                    "Mario Lemieux",
+                    "Bobby Orr",
+                    "Steve Yzerman"
+                ],
+                "answerIndex": 0,
+                "explanation": "Wayne Gretzky scored 215 points in 1985–86, the NHL single-season record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_012",
+                "prompt": "Usain Bolt’s world record in the men’s 100 metres is 9.58 seconds. Where did he set it?",
+                "choices": [
+                    "Berlin (2009 World Championships)",
+                    "Beijing (2008 Olympics)",
+                    "London (2012 Olympics)",
+                    "Moscow (2013 World Championships)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Bolt set the 9.58 world record in Berlin at the 2009 World Championships.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_013",
+                "prompt": "Which MLB player holds the modern-era record for the longest hitting streak at 56 games (1941)?",
+                "choices": [
+                    "Joe DiMaggio",
+                    "Pete Rose",
+                    "Ty Cobb",
+                    "Ichiro Suzuki"
+                ],
+                "answerIndex": 0,
+                "explanation": "Joe DiMaggio’s 56-game hitting streak in 1941 is the MLB record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_014",
+                "prompt": "Who achieved the first tennis “Golden Slam” (all four majors + Olympic gold in the same year)?",
+                "choices": [
+                    "Steffi Graf (1988)",
+                    "Serena Williams (2012)",
+                    "Novak Djokovic (2021)",
+                    "Rod Laver (1969)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Steffi Graf completed the first Golden Slam in 1988 by winning all four majors and Olympic gold.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_015",
+                "prompt": "Which goalkeeper remains the only one to have won the Ballon d’Or?",
+                "choices": [
+                    "Lev Yashin",
+                    "Gianluigi Buffon",
+                    "Manuel Neuer",
+                    "Iker Casillas"
+                ],
+                "answerIndex": 0,
+                "explanation": "Lev Yashin won the Ballon d’Or in 1963 and remains the only goalkeeper to do so.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_016",
+                "prompt": "Who won the inaugural Cricket World Cup (1975) by defeating Australia in the final at Lord’s?",
+                "choices": ["West Indies", "England", "India", "Pakistan"],
+                "answerIndex": 0,
+                "explanation": "West Indies won the 1975 Cricket World Cup, beating Australia in the final at Lord’s.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_017",
+                "prompt": "Who was named MVP of Super Bowl I?",
+                "choices": [
+                    "Bart Starr",
+                    "Vince Lombardi",
+                    "Len Dawson",
+                    "Willie Wood"
+                ],
+                "answerIndex": 0,
+                "explanation": "Packers QB Bart Starr was the MVP of Super Bowl I.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_018",
+                "prompt": "Who holds the MLB record for consecutive games played with 2,632?",
+                "choices": [
+                    "Cal Ripken Jr.",
+                    "Lou Gehrig",
+                    "Pete Rose",
+                    "Eddie Murray"
+                ],
+                "answerIndex": 0,
+                "explanation": "Cal Ripken Jr. played 2,632 consecutive games, the MLB record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_019",
+                "prompt": "Which racehorse became the first to complete the “Grand Slam” of the Triple Crown plus the Breeders’ Cup Classic (2015)?",
+                "choices": [
+                    "American Pharoah",
+                    "Justify",
+                    "Secretariat",
+                    "Seattle Slew"
+                ],
+                "answerIndex": 0,
+                "explanation": "American Pharoah completed the first Triple Crown + Breeders’ Cup Classic ‘Grand Slam’ in 2015.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_020",
+                "prompt": "What is the recognized fastest tennis serve (male), and who hit it?",
+                "choices": [
+                    "263 km/h by Sam Groth",
+                    "251 km/h by Ivo Karlović",
+                    "253 km/h by John Isner",
+                    "260 km/h by Andy Roddick"
+                ],
+                "answerIndex": 0,
+                "explanation": "Guinness recognizes Sam Groth’s 263 km/h serve (2012) as the fastest recorded male tennis serve.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_021",
+                "prompt": "Which pitcher threw the only perfect game in World Series history (1956, Game 5)?",
+                "choices": [
+                    "Don Larsen",
+                    "Sandy Koufax",
+                    "Bob Gibson",
+                    "Whitey Ford"
+                ],
+                "answerIndex": 0,
+                "explanation": "Don Larsen threw a perfect game for the Yankees against the Dodgers in the 1956 World Series (Game 5).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_022",
+                "prompt": "Which pitcher set the modern MLB single-season strikeout record with 383 in 1973?",
+                "choices": [
+                    "Nolan Ryan",
+                    "Sandy Koufax",
+                    "Bob Feller",
+                    "Randy Johnson"
+                ],
+                "answerIndex": 0,
+                "explanation": "Nolan Ryan struck out 383 batters in 1973, the modern-era single-season record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_023",
+                "prompt": "In Super Bowl XXV (Giants vs Bills), how many turnovers were committed by the two teams combined?",
+                "choices": ["0", "1", "2", "3"],
+                "answerIndex": 0,
+                "explanation": "Super Bowl XXV was notable for having zero turnovers by either team.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_024",
+                "prompt": "Who won the 1930 FIFA World Cup final, defeating Argentina 4–2 in Montevideo?",
+                "choices": ["Uruguay", "Argentina", "Brazil", "Italy"],
+                "answerIndex": 0,
+                "explanation": "Uruguay won the inaugural World Cup in 1930, beating Argentina 4–2 in the final.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_025",
+                "prompt": "Wimbledon introduced a final-set tiebreak at 12–12 starting in 2019. Who won the 2019 men’s final decided by that rule?",
+                "choices": [
+                    "Novak Djokovic",
+                    "Roger Federer",
+                    "Rafael Nadal",
+                    "Andy Murray"
+                ],
+                "answerIndex": 0,
+                "explanation": "Djokovic beat Federer in the 2019 Wimbledon final, which ended 13–12 in the fifth set after a 12–12 tiebreak.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_026",
+                "prompt": "Who won the first modern Olympic marathon at Athens 1896?",
+                "choices": [
+                    "Spyridon Louis",
+                    "Pheidippides",
+                    "Paavo Nurmi",
+                    "Alain Mimoun"
+                ],
+                "answerIndex": 0,
+                "explanation": "Spyridon (Spyros) Louis won the inaugural modern Olympic marathon at the 1896 Games in Athens.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_027",
+                "prompt": "Which NBA player recorded a quadruple-double with 34 points, 10 rebounds, 10 assists, and 10 blocks on Feb. 17, 1994?",
+                "choices": [
+                    "David Robinson",
+                    "Hakeem Olajuwon",
+                    "Nate Thurmond",
+                    "Alvin Robertson"
+                ],
+                "answerIndex": 0,
+                "explanation": "David Robinson’s 1994 performance is one of only four recorded quadruple-doubles in NBA history.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_028",
+                "prompt": "Which player scored a record 13 goals at a single FIFA World Cup (1958)?",
+                "choices": [
+                    "Just Fontaine",
+                    "Gerd Müller",
+                    "Ronaldo",
+                    "Miroslav Klose"
+                ],
+                "answerIndex": 0,
+                "explanation": "France’s Just Fontaine scored 13 goals at the 1958 World Cup, the single-tournament record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_029",
+                "prompt": "Who is the youngest men’s singles champion in Wimbledon history (won in 1985 at age 17)?",
+                "choices": [
+                    "Boris Becker",
+                    "Björn Borg",
+                    "Michael Chang",
+                    "Pete Sampras"
+                ],
+                "answerIndex": 0,
+                "explanation": "Boris Becker won Wimbledon in 1985 at 17, the youngest men’s singles champion at the Championships.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_030",
+                "prompt": "Which NHL player set the fastest hat-trick record by scoring three goals in 21 seconds (1952)?",
+                "choices": [
+                    "Bill Mosienko",
+                    "Wayne Gretzky",
+                    "Maurice Richard",
+                    "Mario Lemieux"
+                ],
+                "answerIndex": 0,
+                "explanation": "Bill Mosienko scored three goals in 21 seconds in 1952, the NHL fastest hat-trick record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_031",
+                "prompt": "Who scored the fastest goal in a FIFA World Cup finals match (11 seconds, 2002)?",
+                "choices": [
+                    "Hakan Şükür",
+                    "Pelé",
+                    "Kylian Mbappé",
+                    "Miroslav Klose"
+                ],
+                "answerIndex": 0,
+                "explanation": "Hakan Şükür scored after 11 seconds for Turkey vs Korea Republic at the 2002 World Cup.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_032",
+                "prompt": "Who holds the record for the fastest ODI century (100) off 31 balls (2015)?",
+                "choices": [
+                    "AB de Villiers",
+                    "Corey Anderson",
+                    "Shahid Afridi",
+                    "Glenn Maxwell"
+                ],
+                "answerIndex": 0,
+                "explanation": "AB de Villiers scored an ODI century off 31 balls in 2015, the record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_033",
+                "prompt": "Which driver remains Formula One’s only posthumous World Drivers’ Champion?",
+                "choices": [
+                    "Jochen Rindt",
+                    "Ayrton Senna",
+                    "Jules Bianchi",
+                    "Ronnie Peterson"
+                ],
+                "answerIndex": 0,
+                "explanation": "Jochen Rindt was awarded the 1970 F1 title posthumously and remains the only posthumous champion.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_034",
+                "prompt": "Who is the youngest winner of the Masters Tournament (age 21 years, 104 days in 1997)?",
+                "choices": [
+                    "Tiger Woods",
+                    "Jordan Spieth",
+                    "Jack Nicklaus",
+                    "Seve Ballesteros"
+                ],
+                "answerIndex": 0,
+                "explanation": "Tiger Woods won the 1997 Masters at age 21 years, 104 days, the youngest champion.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_035",
+                "prompt": "Who recorded the fastest triple-double in NBA history (14 minutes 33 seconds of court time, 2018)?",
+                "choices": [
+                    "Nikola Jokić",
+                    "Russell Westbrook",
+                    "Oscar Robertson",
+                    "LeBron James"
+                ],
+                "answerIndex": 0,
+                "explanation": "Nikola Jokić recorded a triple-double in 14:33 of court time on Feb. 15, 2018 (Guinness record).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_036",
+                "prompt": "Who became MLB’s first member of the 40–40 club (40 HR and 40 SB in a season) in 1988?",
+                "choices": [
+                    "José Canseco",
+                    "Barry Bonds",
+                    "Alex Rodriguez",
+                    "Ronald Acuña Jr."
+                ],
+                "answerIndex": 0,
+                "explanation": "José Canseco became the first 40–40 player in 1988.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_037",
+                "prompt": "Which athlete was the first to win Olympic gold in the same individual event at four consecutive Games (discus)?",
+                "choices": [
+                    "Al Oerter",
+                    "Carl Lewis",
+                    "Paavo Nurmi",
+                    "Michael Johnson"
+                ],
+                "answerIndex": 0,
+                "explanation": "Al Oerter won four consecutive Olympic discus gold medals (1956–1968), the first to do so in one event.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_038",
+                "prompt": "Beijing became the first city to host both the Summer and Winter Olympics by hosting the Winter Games in which year?",
+                "choices": ["2022", "2018", "2020", "2024"],
+                "answerIndex": 0,
+                "explanation": "Beijing hosted the Winter Olympics in 2022 after hosting the Summer Olympics in 2008.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_039",
+                "prompt": "Which MLB player set the single-season stolen base record with 130 in 1982?",
+                "choices": [
+                    "Rickey Henderson",
+                    "Lou Brock",
+                    "Vince Coleman",
+                    "Maury Wills"
+                ],
+                "answerIndex": 0,
+                "explanation": "Rickey Henderson stole 130 bases in 1982, the MLB single-season record.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "sports_040",
+                "prompt": "What is the men’s mile world record, and who set it?",
+                "choices": [
+                    "3:43.13 by Hicham El Guerrouj",
+                    "3:44.39 by Steve Cram",
+                    "3:41.90 by Jakob Ingebrigtsen",
+                    "3:45.00 by Sebastian Coe"
+                ],
+                "answerIndex": 0,
+                "explanation": "Hicham El Guerrouj set the men’s mile world record of 3:43.13 in 1999.",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

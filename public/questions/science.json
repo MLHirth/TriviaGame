@@ -1,0 +1,484 @@
+{
+    "version": 1,
+    "category": {
+        "id": "science",
+        "name": "Science",
+        "questions": [
+            {
+                "id": "science_001",
+                "prompt": "Which named seismic discontinuity marks the boundary between Earth's mantle and liquid outer core (core–mantle boundary)?",
+                "choices": [
+                    "Gutenberg discontinuity",
+                    "Lehmann discontinuity",
+                    "Mohorovičić discontinuity",
+                    "Conrad discontinuity"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Gutenberg discontinuity is the mantle–outer core boundary, identified by the disappearance of S-waves.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_002",
+                "prompt": "Which mission achieved the first successful soft landing on Mars (even though it transmitted only briefly)?",
+                "choices": ["Mars 3", "Viking 1", "Mars Pathfinder", "Phoenix"],
+                "answerIndex": 0,
+                "explanation": "The Soviet Mars 3 lander achieved the first soft landing on Mars on December 2, 1971, but failed shortly after.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_003",
+                "prompt": "Which element has the highest melting point of all chemical elements?",
+                "choices": [
+                    "Tungsten (W)",
+                    "Osmium (Os)",
+                    "Rhenium (Re)",
+                    "Carbon (C)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Tungsten has the highest melting point among elements (~3422 °C). Carbon sublimates at 1 atm rather than melts.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_004",
+                "prompt": "In Escherichia coli, what is the name of the single chromosomal origin of replication?",
+                "choices": ["oriC", "oriV", "ARS1", "terC"],
+                "answerIndex": 0,
+                "explanation": "E. coli initiates chromosomal replication from a single origin called oriC.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_005",
+                "prompt": "Which seismic discontinuity is commonly called the “Moho” and marks the crust–mantle boundary?",
+                "choices": [
+                    "Mohorovičić discontinuity",
+                    "Gutenberg discontinuity",
+                    "Lehmann discontinuity",
+                    "Repetti discontinuity"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Mohorovičić discontinuity (Moho) separates Earth's crust from the mantle.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_006",
+                "prompt": "Which named discontinuity marks the boundary between Earth's liquid outer core and solid inner core?",
+                "choices": [
+                    "Lehmann discontinuity",
+                    "Gutenberg discontinuity",
+                    "Mohorovičić discontinuity",
+                    "410-km discontinuity"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Lehmann discontinuity corresponds to the inner-core boundary discovered via seismic wave behavior.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_007",
+                "prompt": "Which enzyme complex catalyzes biological nitrogen fixation (N₂ → NH₃)?",
+                "choices": [
+                    "Nitrogenase",
+                    "Nitrate reductase",
+                    "Rubisco",
+                    "ATP synthase"
+                ],
+                "answerIndex": 0,
+                "explanation": "Nitrogenase is the enzyme complex that reduces atmospheric nitrogen to ammonia in diazotrophs.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_008",
+                "prompt": "Which SI unit is used for catalytic activity (amount of substance converted per second)?",
+                "choices": [
+                    "katal (kat)",
+                    "tesla (T)",
+                    "sievert (Sv)",
+                    "weber (Wb)"
+                ],
+                "answerIndex": 0,
+                "explanation": "The katal (mol/s) is the SI derived unit for catalytic activity.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_009",
+                "prompt": "In eukaryotes, which RNA polymerase primarily transcribes the large rRNA precursor (18S, 5.8S, 28S)?",
+                "choices": [
+                    "RNA polymerase I",
+                    "RNA polymerase II",
+                    "RNA polymerase III",
+                    "RNA-dependent RNA polymerase"
+                ],
+                "answerIndex": 0,
+                "explanation": "RNA polymerase I synthesizes the major rRNA precursor in the nucleolus.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_010",
+                "prompt": "Which codon is the canonical start codon, and which amino acid does it specify in the standard genetic code?",
+                "choices": [
+                    "AUG → methionine",
+                    "UAA → methionine",
+                    "UGG → tryptophan",
+                    "AUA → isoleucine"
+                ],
+                "answerIndex": 0,
+                "explanation": "AUG is the usual start codon and codes for methionine (initiator Met; fMet in many bacteria).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_011",
+                "prompt": "Which Lagrange points in the restricted three-body problem are (linearly) stable for small bodies in the Sun–planet system?",
+                "choices": ["L4 and L5", "L1 and L2", "L2 and L3", "L1 and L3"],
+                "answerIndex": 0,
+                "explanation": "L4 and L5 are stable equilibrium points where Trojan asteroids can persist.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_012",
+                "prompt": "Which phenomenon causes small dust grains orbiting the Sun to slowly spiral inward due to a drag from absorbed and re-emitted sunlight?",
+                "choices": [
+                    "Poynting–Robertson effect",
+                    "Yarkovsky effect",
+                    "Lense–Thirring precession",
+                    "Kozai–Lidov mechanism"
+                ],
+                "answerIndex": 0,
+                "explanation": "Poynting–Robertson drag removes orbital angular momentum from dust via radiation absorption/re-emission.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_013",
+                "prompt": "What is the gauge group of quantum chromodynamics (QCD) in the Standard Model?",
+                "choices": ["SU(3)", "SU(2)", "U(1)", "SO(10)"],
+                "answerIndex": 0,
+                "explanation": "QCD is based on the non-abelian gauge symmetry SU(3) of color charge.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_014",
+                "prompt": "Which laboratory technique separates proteins primarily by isoelectric point in a pH gradient?",
+                "choices": [
+                    "Isoelectric focusing",
+                    "SDS-PAGE",
+                    "Gel filtration chromatography",
+                    "Southern blotting"
+                ],
+                "answerIndex": 0,
+                "explanation": "Isoelectric focusing drives proteins to the pH where their net charge is zero (their pI).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_015",
+                "prompt": "Which process industrially produces sulfuric acid by oxidizing SO₂ to SO₃ over a catalyst, followed by absorption?",
+                "choices": [
+                    "Contact process",
+                    "Haber–Bosch process",
+                    "Solvay process",
+                    "Hall–Héroult process"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Contact process uses a catalyst (commonly V₂O₅) to convert SO₂ to SO₃ en route to H₂SO₄.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_016",
+                "prompt": "Which allotrope of phosphorus is the most thermodynamically stable at room temperature and pressure?",
+                "choices": [
+                    "Black phosphorus",
+                    "White phosphorus",
+                    "Red phosphorus",
+                    "Violet phosphorus"
+                ],
+                "answerIndex": 0,
+                "explanation": "Black phosphorus is generally considered the most stable allotrope under ambient conditions.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_017",
+                "prompt": "In mitochondrial electron transport, which complex is also known as NADH:ubiquinone oxidoreductase?",
+                "choices": [
+                    "Complex I",
+                    "Complex II",
+                    "Complex III",
+                    "Complex IV"
+                ],
+                "answerIndex": 0,
+                "explanation": "Complex I oxidizes NADH and transfers electrons to ubiquinone (coenzyme Q).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_018",
+                "prompt": "Which molecule is the terminal electron acceptor in aerobic respiration in mitochondria?",
+                "choices": [
+                    "Oxygen (O₂)",
+                    "Nitrate (NO₃⁻)",
+                    "Sulfate (SO₄²⁻)",
+                    "Carbon dioxide (CO₂)"
+                ],
+                "answerIndex": 0,
+                "explanation": "In aerobic respiration, O₂ is reduced to water at Complex IV (cytochrome c oxidase).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_019",
+                "prompt": "Which statement best describes where the peptidyl transferase activity of the ribosome resides?",
+                "choices": [
+                    "In rRNA of the large subunit (a ribozyme)",
+                    "In ribosomal proteins only",
+                    "In tRNA anticodon loops",
+                    "In rRNA of the small subunit"
+                ],
+                "answerIndex": 0,
+                "explanation": "Peptide bond formation is catalyzed by rRNA in the large subunit, making the ribosome a ribozyme.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_020",
+                "prompt": "Which chlorophyll-containing complex splits water to produce O₂ during oxygenic photosynthesis?",
+                "choices": [
+                    "Photosystem II",
+                    "Photosystem I",
+                    "Cytochrome b6f complex",
+                    "ATP synthase"
+                ],
+                "answerIndex": 0,
+                "explanation": "Photosystem II contains the oxygen-evolving complex that oxidizes water to O₂.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_021",
+                "prompt": "Which iron-containing protein is the immediate soluble electron carrier accepting electrons from Photosystem I in plants?",
+                "choices": [
+                    "Ferredoxin",
+                    "Plastocyanin",
+                    "Cytochrome c",
+                    "NADP⁺"
+                ],
+                "answerIndex": 0,
+                "explanation": "Electrons leaving Photosystem I are transferred to ferredoxin before reducing NADP⁺ via FNR.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_022",
+                "prompt": "Which Earth layer is primarily responsible for generating the geomagnetic field via a dynamo process?",
+                "choices": [
+                    "Liquid outer core",
+                    "Lower mantle",
+                    "Lithosphere",
+                    "Inner core"
+                ],
+                "answerIndex": 0,
+                "explanation": "Convection of conducting fluid iron alloy in the outer core drives Earth's geodynamo.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_023",
+                "prompt": "Which type of seismic body wave cannot propagate through liquids?",
+                "choices": ["S-wave", "P-wave", "Love wave", "Rayleigh wave"],
+                "answerIndex": 0,
+                "explanation": "S-waves are shear waves and require a material with shear rigidity, so they do not travel through liquids.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_024",
+                "prompt": "Which is the most abundant naturally occurring isotope of carbon on Earth?",
+                "choices": ["Carbon-12", "Carbon-13", "Carbon-14", "Carbon-11"],
+                "answerIndex": 0,
+                "explanation": "Carbon-12 makes up about 99% of natural carbon and defines the atomic mass unit scale.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_025",
+                "prompt": "Which isotope is used in radiocarbon dating for once-living materials?",
+                "choices": [
+                    "Carbon-14",
+                    "Uranium-235",
+                    "Potassium-40",
+                    "Lead-206"
+                ],
+                "answerIndex": 0,
+                "explanation": "Radiocarbon dating relies on the decay of Carbon-14 in organic remains.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_026",
+                "prompt": "Which vitamin deficiency is classically associated with impaired gamma-carboxylation of clotting factors, causing bleeding tendency?",
+                "choices": [
+                    "Vitamin K",
+                    "Vitamin C",
+                    "Vitamin B12",
+                    "Vitamin D"
+                ],
+                "answerIndex": 0,
+                "explanation": "Vitamin K is required for γ-carboxylation of several coagulation proteins (e.g., prothrombin).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_027",
+                "prompt": "Which glial cell type forms myelin in the central nervous system?",
+                "choices": [
+                    "Oligodendrocytes",
+                    "Schwann cells",
+                    "Astrocytes",
+                    "Microglia"
+                ],
+                "answerIndex": 0,
+                "explanation": "Oligodendrocytes myelinate CNS axons; Schwann cells myelinate PNS axons.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_028",
+                "prompt": "Which blood vessel type is the primary site of nutrient and gas exchange with tissues?",
+                "choices": ["Capillaries", "Arteries", "Veins", "Arterioles"],
+                "answerIndex": 0,
+                "explanation": "Capillaries have thin walls and extensive surface area for exchange between blood and tissues.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_029",
+                "prompt": "Which term describes the time for a radioactive sample’s activity to fall to half its initial value?",
+                "choices": [
+                    "Half-life",
+                    "Mean free path",
+                    "Relaxation time",
+                    "Coherence time"
+                ],
+                "answerIndex": 0,
+                "explanation": "Half-life is the characteristic time for half of unstable nuclei in a sample to decay.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_030",
+                "prompt": "Which ocean current is primarily responsible for transporting warm surface water toward Western Europe, moderating its climate?",
+                "choices": [
+                    "Gulf Stream / North Atlantic Drift",
+                    "California Current",
+                    "Peru (Humboldt) Current",
+                    "Oyashio Current"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Gulf Stream system carries warm water northeastward across the Atlantic, influencing Western European climate.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_031",
+                "prompt": "Which of these elements is NOT named after the Swedish village of Ytterby?",
+                "choices": ["Holmium", "Yttrium", "Terbium", "Erbium"],
+                "answerIndex": 0,
+                "explanation": "Yttrium, terbium, erbium (and ytterbium) are named after Ytterby; holmium is named after Stockholm (Holmia).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_032",
+                "prompt": "Which astronomical magnitude scale property is correct?",
+                "choices": [
+                    "A difference of 5 magnitudes corresponds to a factor of 100 in brightness",
+                    "A difference of 1 magnitude corresponds to a factor of 10 in brightness",
+                    "Lower magnitudes always mean dimmer objects",
+                    "Magnitudes are linear in photon flux"
+                ],
+                "answerIndex": 0,
+                "explanation": "The modern magnitude scale is logarithmic: 5 magnitudes = 100× brightness (Pogson ratio).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_033",
+                "prompt": "Which law (for dilute solutions) relates osmotic pressure π to solute molarity M as π = MRT?",
+                "choices": [
+                    "van ’t Hoff law",
+                    "Henry’s law",
+                    "Raoult’s law",
+                    "Boyle’s law"
+                ],
+                "answerIndex": 0,
+                "explanation": "The van ’t Hoff relation gives osmotic pressure for ideal dilute solutions: π = iMRT (with van ’t Hoff factor i).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_034",
+                "prompt": "Which biochemical pathway is responsible for producing NADPH and ribose-5-phosphate in the cytosol?",
+                "choices": [
+                    "Pentose phosphate pathway",
+                    "Glycolysis",
+                    "Citric acid cycle",
+                    "Urea cycle"
+                ],
+                "answerIndex": 0,
+                "explanation": "The pentose phosphate pathway generates NADPH (for reductive biosynthesis) and ribose-5-phosphate (for nucleotides).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_035",
+                "prompt": "Which molecule is the primary intracellular messenger that directly triggers Ca²⁺ release from the endoplasmic reticulum via IP₃ receptors?",
+                "choices": [
+                    "Inositol 1,4,5-trisphosphate (IP₃)",
+                    "cAMP",
+                    "cGMP",
+                    "Diacylglycerol (DAG)"
+                ],
+                "answerIndex": 0,
+                "explanation": "IP₃ binds IP₃ receptors on the ER to open Ca²⁺ channels and elevate cytosolic calcium.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_036",
+                "prompt": "Which atmospheric layer contains the ozone maximum that absorbs most ultraviolet (UV-B/UV-C) radiation?",
+                "choices": [
+                    "Stratosphere",
+                    "Troposphere",
+                    "Mesosphere",
+                    "Thermosphere"
+                ],
+                "answerIndex": 0,
+                "explanation": "The ozone layer is concentrated in the stratosphere and shields the surface from much UV radiation.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_037",
+                "prompt": "Which mineral is the principal ore of aluminum used in industrial extraction?",
+                "choices": ["Bauxite", "Hematite", "Galena", "Sphalerite"],
+                "answerIndex": 0,
+                "explanation": "Aluminum is primarily extracted from bauxite via the Bayer process followed by Hall–Héroult electrolysis.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_038",
+                "prompt": "In immunology, which molecules are primarily responsible for presenting endogenous peptides to cytotoxic T cells?",
+                "choices": [
+                    "MHC class I",
+                    "MHC class II",
+                    "Toll-like receptors",
+                    "Complement C3"
+                ],
+                "answerIndex": 0,
+                "explanation": "MHC class I presents peptides from intracellular proteins to CD8⁺ cytotoxic T lymphocytes.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_039",
+                "prompt": "Which process in a star is primarily responsible for generating energy in the Sun today?",
+                "choices": [
+                    "Proton–proton chain fusion",
+                    "CNO cycle dominance",
+                    "Triple-alpha process",
+                    "r-process nucleosynthesis"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Sun’s core energy production is dominated by the proton–proton chain converting hydrogen into helium.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "science_040",
+                "prompt": "Which enzyme extends chromosome ends by adding telomeric repeats using an internal RNA template?",
+                "choices": [
+                    "Telomerase",
+                    "DNA ligase",
+                    "Topoisomerase I",
+                    "Primase"
+                ],
+                "answerIndex": 0,
+                "explanation": "Telomerase is a ribonucleoprotein reverse transcriptase that adds telomeric DNA using its RNA as a template.",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

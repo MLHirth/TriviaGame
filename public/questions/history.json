@@ -1,0 +1,509 @@
+{
+    "version": 1,
+    "category": {
+        "id": "history",
+        "name": "History",
+        "questions": [
+            {
+                "id": "history_001",
+                "prompt": "In the 1494 Treaty of Tordesillas, how far west of the Cape Verde Islands was the demarcation line set (as stated in the treaty’s terms)?",
+                "choices": [
+                    "270 leagues",
+                    "370 leagues",
+                    "470 leagues",
+                    "570 leagues"
+                ],
+                "answerIndex": 1,
+                "explanation": "The treaty’s line of demarcation was fixed at 370 leagues west of the Cape Verde Islands.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_002",
+                "prompt": "At the 751 Battle of Talas, which Central Asian group famously defected mid-battle, helping secure an Abbasid-side victory over Tang forces?",
+                "choices": ["Karluks", "Khazars", "Göktürks", "Sogdians"],
+                "answerIndex": 0,
+                "explanation": "Karluk forces are widely noted as defecting to the Abbasid side during the battle, tipping the outcome.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_003",
+                "prompt": "The 313 agreement known as the Edict of Milan was reached when Constantine and Licinius met in which city?",
+                "choices": [
+                    "Nicomedia",
+                    "Mediolanum (Milan)",
+                    "Trier (Augusta Treverorum)",
+                    "Antioch"
+                ],
+                "answerIndex": 1,
+                "explanation": "The agreement was made after the emperors met in Mediolanum, the Roman name for Milan.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_004",
+                "prompt": "The Peace of Westphalia—collectively the Treaties of Münster and Osnabrück—was signed on which date?",
+                "choices": [
+                    "24 October 1648",
+                    "15 May 1648",
+                    "6 May 1527",
+                    "7 October 1571"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Peace of Westphalia is dated to 24 October 1648 (treaties signed in Münster and Osnabrück).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_005",
+                "prompt": "During negotiations leading to the 1842 Treaty of Nanking, British and Qing officials negotiated aboard HMS Cornwallis anchored on which river near Nanjing?",
+                "choices": [
+                    "Yellow River",
+                    "Pearl River",
+                    "Yangtze River",
+                    "Mekong River"
+                ],
+                "answerIndex": 2,
+                "explanation": "Negotiations took place on HMS Cornwallis anchored in the Yangtze River at Nanjing.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_006",
+                "prompt": "Spain’s 1812 Constitution of Cádiz was nicknamed “La Pepa” primarily because it was promulgated on which feast day?",
+                "choices": [
+                    "Epiphany",
+                    "St Joseph’s Day",
+                    "St James’s Day",
+                    "All Saints’ Day"
+                ],
+                "answerIndex": 1,
+                "explanation": "It was promulgated on 19 March (St Joseph’s Day), hence the popular nickname “La Pepa.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_007",
+                "prompt": "The 1571 Battle of Lepanto was fought in which body of water?",
+                "choices": [
+                    "Gulf of Patras",
+                    "Gulf of Venice",
+                    "Strait of Messina",
+                    "Bay of Biscay"
+                ],
+                "answerIndex": 0,
+                "explanation": "Lepanto took place in the Gulf of Patras (near western Greece).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_008",
+                "prompt": "Which Ottoman sultan proclaimed the Hatt-ı Şerif of Gülhane (Noble Edict of the Rose Chamber) on 3 November 1839, launching the Tanzimat era?",
+                "choices": [
+                    "Selim III",
+                    "Mahmud II",
+                    "Abdülmecid I",
+                    "Abdülhamid II"
+                ],
+                "answerIndex": 2,
+                "explanation": "The Gülhane Edict was proclaimed under Sultan Abdülmecid I in 1839.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_009",
+                "prompt": "The Treaty of Küçük Kaynarca (21 July 1774) ended which war?",
+                "choices": [
+                    "Russo-Turkish War of 1768–1774",
+                    "Great Turkish War (1683–1699)",
+                    "Crimean War (1853–1856)",
+                    "Russo-Persian War of 1826–1828"
+                ],
+                "answerIndex": 0,
+                "explanation": "It concluded the Russo–Turkish War of 1768–1774, granting Russia major concessions.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_010",
+                "prompt": "Which pope was elected at the Council of Constance (1414–1418), helping end the Western Schism?",
+                "choices": [
+                    "Innocent VII",
+                    "Martin V",
+                    "Eugenius IV",
+                    "Alexander V"
+                ],
+                "answerIndex": 1,
+                "explanation": "The council resolved the schism and elected Pope Martin V.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_011",
+                "prompt": "The Sack of Rome on 6 May 1527 (during the War of the League of Cognac) forced which pope to take refuge and negotiate from a position of humiliation?",
+                "choices": ["Julius II", "Leo X", "Clement VII", "Paul III"],
+                "answerIndex": 2,
+                "explanation": "Pope Clement VII was trapped by the imperial assault and suffered a major political defeat.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_012",
+                "prompt": "The 1854 Convention of Kanagawa ended Japan’s policy of seclusion by opening which two ports to American vessels?",
+                "choices": [
+                    "Nagasaki and Yokohama",
+                    "Shimoda and Hakodate",
+                    "Kobe and Osaka",
+                    "Sasebo and Kagoshima"
+                ],
+                "answerIndex": 1,
+                "explanation": "The treaty opened the ports of Shimoda and Hakodate to American ships.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_013",
+                "prompt": "A key immediate consequence associated with the 1552 Peace of Passau was the cancellation of which imperial religious settlement?",
+                "choices": [
+                    "Edict of Worms",
+                    "Augsburg Interim",
+                    "Peace of Augsburg",
+                    "Twelve Articles of the Peasants"
+                ],
+                "answerIndex": 1,
+                "explanation": "The Peace of Passau effectively cancelled enforcement of the Augsburg Interim and granted interim protections.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_014",
+                "prompt": "On what date did Emperor Charles VI issue the Pragmatic Sanction of 1713 to secure Habsburg succession (including via a daughter)?",
+                "choices": [
+                    "19 April 1713",
+                    "11 April 1713",
+                    "18 October 1748",
+                    "23 September 1122"
+                ],
+                "answerIndex": 0,
+                "explanation": "Charles VI issued the edict on 19 April 1713.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_015",
+                "prompt": "At the Fashoda Incident (1898), which French officer led the expedition that confronted Kitchener’s British-Egyptian force at Fashoda on the White Nile?",
+                "choices": [
+                    "Jean-Baptiste Marchand",
+                    "Hubert Lyautey",
+                    "Joseph Gallieni",
+                    "Pierre Savorgnan de Brazza"
+                ],
+                "answerIndex": 0,
+                "explanation": "Major Jean-Baptiste Marchand commanded the French expedition to Fashoda.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_016",
+                "prompt": "One hallmark of the 1748 Treaty of Aix-la-Chapelle was mutual restitution of conquests. Which North American fortress was returned to France under the treaty?",
+                "choices": [
+                    "Louisbourg",
+                    "Yorktown",
+                    "Gibraltar",
+                    "Port Royal"
+                ],
+                "answerIndex": 0,
+                "explanation": "The fortress of Louisbourg (Cape Breton Island) was restored to France as part of restitution terms.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_017",
+                "prompt": "The 1529 Treaty of Zaragoza was negotiated primarily to resolve the “Moluccas issue.” What was the dispute about?",
+                "choices": [
+                    "Which Iberian crown controlled the Spice Islands in Asia",
+                    "Whether Venice could retain Dalmatia",
+                    "Who would rule the Netherlands after Charles V",
+                    "Whether Portugal could trade in Canton"
+                ],
+                "answerIndex": 0,
+                "explanation": "Zaragoza clarified Castilian vs Portuguese spheres of influence in Asia, centered on claims to the Spice Islands.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_018",
+                "prompt": "After the suppression of the Münster Anabaptist regime (1535), the bodies of key leaders were displayed in iron cages on the tower of which church?",
+                "choices": [
+                    "St Lambert’s Church",
+                    "St Peter’s Cathedral",
+                    "St Stephen’s Cathedral",
+                    "All Saints’ Church"
+                ],
+                "answerIndex": 0,
+                "explanation": "The cages were hung from the tower of St Lambert’s Church in Münster.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_019",
+                "prompt": "Which Italian commander led Italy’s colonial forces at the Battle of Adwa (1 March 1896)?",
+                "choices": [
+                    "Luigi Cadorna",
+                    "Oreste Baratieri",
+                    "Pietro Badoglio",
+                    "Rodolfo Graziani"
+                ],
+                "answerIndex": 1,
+                "explanation": "General Oreste Baratieri commanded the Italian force defeated at Adwa.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_020",
+                "prompt": "The Treaty of Brest-Litovsk (3 March 1918) was written in multiple languages. Which of the following was NOT among the treaty’s languages?",
+                "choices": [
+                    "Ottoman Turkish",
+                    "Hungarian",
+                    "Russian",
+                    "French"
+                ],
+                "answerIndex": 3,
+                "explanation": "The treaty was in Bulgarian, German, Hungarian, Russian, and Ottoman Turkish—not French.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_021",
+                "prompt": "At the Battle of ʿAyn Jālūt (3 September 1260), which Ilkhanate commander led the Mongol side and was defeated by the Mamluks?",
+                "choices": ["Hülegü", "Kitbuqa Noyan", "Subutai", "Jebe"],
+                "answerIndex": 1,
+                "explanation": "Kitbuqa commanded the Mongol force in the Levant and was defeated by the Mamluks at ʿAyn Jālūt.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_022",
+                "prompt": "The 664 Synod of Whitby was held at Hilda’s monastery known in sources as Streonshalh (Streanæshalch). What later name is most closely associated with that site?",
+                "choices": [
+                    "Lindisfarne Priory",
+                    "Whitby Abbey",
+                    "Glastonbury Abbey",
+                    "Fountains Abbey"
+                ],
+                "answerIndex": 1,
+                "explanation": "Streonshalh later became known as Whitby Abbey, where the synod is traditionally located.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_023",
+                "prompt": "The Edict of Nantes, granting substantial rights to French Protestants, was promulgated on which date?",
+                "choices": [
+                    "13 April 1598",
+                    "24 October 1648",
+                    "7 June 1494",
+                    "5 September 1905"
+                ],
+                "answerIndex": 0,
+                "explanation": "Henry IV promulgated the Edict of Nantes on 13 April 1598.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_024",
+                "prompt": "Although named for Portsmouth, where exactly was the Treaty of Portsmouth (ending the Russo-Japanese War) signed?",
+                "choices": [
+                    "Portsmouth, England",
+                    "Portsmouth Naval Shipyard in Kittery, Maine (U.S.)",
+                    "Vladivostok, Russia",
+                    "Tokyo, Japan"
+                ],
+                "answerIndex": 1,
+                "explanation": "The treaty was signed at the Portsmouth Naval Shipyard, located in Kittery, Maine, in the United States.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_025",
+                "prompt": "The British–French memorandum behind the Sykes–Picot Agreement was initialled on which date (before later government ratification in May 1916)?",
+                "choices": [
+                    "3 January 1916",
+                    "16 May 1916",
+                    "2 November 1917",
+                    "4 June 1920"
+                ],
+                "answerIndex": 0,
+                "explanation": "The negotiated memorandum was initialled on 3 January 1916; it was later ratified in May 1916.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_026",
+                "prompt": "The Treaty of Trianon (4 June 1920) was signed at which specific palace building in Versailles?",
+                "choices": [
+                    "Petit Trianon",
+                    "Grand Trianon",
+                    "Palace of Fontainebleau",
+                    "Luxembourg Palace"
+                ],
+                "answerIndex": 1,
+                "explanation": "It was signed in the Grand Trianon at Versailles.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_027",
+                "prompt": "According to the church historian Socrates of Constantinople, on what date did the First Council of Nicaea open in 325?",
+                "choices": [
+                    "20 May 325",
+                    "8 October 451",
+                    "16 November 1414",
+                    "3 March 1918"
+                ],
+                "answerIndex": 0,
+                "explanation": "Socrates gives 20 May 325 as the opening date for the Council of Nicaea (though some sources suggest late June).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_028",
+                "prompt": "Which British commander-in-chief led the Egyptian Expeditionary Force at the Battle of Megiddo (19–25 September 1918)?",
+                "choices": [
+                    "Douglas Haig",
+                    "Edmund Allenby",
+                    "William Robertson",
+                    "John Jellicoe"
+                ],
+                "answerIndex": 1,
+                "explanation": "General Edmund Allenby commanded the Allied offensive known as the Battle of Megiddo in 1918.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_029",
+                "prompt": "The Concordat of Worms (23 September 1122) was signed by Pope Callixtus II and which Holy Roman Emperor?",
+                "choices": [
+                    "Henry IV",
+                    "Henry V",
+                    "Frederick I Barbarossa",
+                    "Otto I"
+                ],
+                "answerIndex": 1,
+                "explanation": "It was signed by Pope Callixtus II and Emperor Henry V, helping end the Investiture Controversy.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_030",
+                "prompt": "A key treaty in the Peace of Utrecht is dated to 11 April 1713. In which Dutch city were these treaties signed?",
+                "choices": ["The Hague", "Utrecht", "Amsterdam", "Rotterdam"],
+                "answerIndex": 1,
+                "explanation": "The Peace of Utrecht treaties were signed in the city of Utrecht in the Dutch Republic.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_031",
+                "prompt": "The final ruler captured when Tenochtitlan surrendered on 13 August 1521 was which Aztec leader?",
+                "choices": [
+                    "Moctezuma II",
+                    "Cuauhtémoc",
+                    "Cuitláhuac",
+                    "Ahuitzotl"
+                ],
+                "answerIndex": 1,
+                "explanation": "Cuauhtémoc was captured during the city’s surrender and is often regarded as the last Aztec ruler.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_032",
+                "prompt": "The 1917 Balfour Declaration was contained in a letter from the British foreign secretary to Lord Rothschild. Who was that foreign secretary?",
+                "choices": [
+                    "David Lloyd George",
+                    "Arthur James Balfour",
+                    "Edward Grey",
+                    "Winston Churchill"
+                ],
+                "answerIndex": 1,
+                "explanation": "The letter was signed by Arthur James Balfour, then British foreign secretary.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_033",
+                "prompt": "The Treaty of Campo Formio (17 October 1797) was signed by Napoleon Bonaparte and which Austrian plenipotentiary?",
+                "choices": [
+                    "Klemens von Metternich",
+                    "Philipp von Cobenzl",
+                    "Johann von Thugut",
+                    "Karl von Schwarzenberg"
+                ],
+                "answerIndex": 1,
+                "explanation": "Count Philipp von Cobenzl signed for Austria opposite Napoleon for France.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_034",
+                "prompt": "The 1812 Convention of Tauroggen was signed by the Prussian general Ludwig Yorck and which Russian general?",
+                "choices": [
+                    "Mikhail Kutuzov",
+                    "Hans Karl von Diebitsch",
+                    "Pyotr Bagration",
+                    "Mikhail Barclay de Tolly"
+                ],
+                "answerIndex": 1,
+                "explanation": "Yorck signed the armistice with Russian General Hans Karl von Diebitsch.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_035",
+                "prompt": "At the Battle of Clontarf (23 April 1014), which ruler led the forces of the Kingdom of Dublin allied with Leinster against Brian Boru’s army?",
+                "choices": [
+                    "Harald Bluetooth",
+                    "Sigtrygg Silkbeard",
+                    "Olaf Tryggvason",
+                    "Rollo of Normandy"
+                ],
+                "answerIndex": 1,
+                "explanation": "Sigtrygg Silkbeard, King of Dublin, was a principal leader on the opposing side.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_036",
+                "prompt": "At the initial signing of the Treaty of Waitangi on 6 February 1840, which British Crown representative signed on behalf of the Crown?",
+                "choices": [
+                    "James Cook",
+                    "William Hobson",
+                    "George Grey",
+                    "John Russell"
+                ],
+                "answerIndex": 1,
+                "explanation": "Captain William Hobson signed on behalf of the British Crown at Waitangi.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_037",
+                "prompt": "The 1922 Treaty of Rapallo was signed for Germany by which foreign minister (later assassinated the same year)?",
+                "choices": [
+                    "Gustav Stresemann",
+                    "Walther Rathenau",
+                    "Joseph Wirth",
+                    "Hermann Müller"
+                ],
+                "answerIndex": 1,
+                "explanation": "Walther Rathenau, Germany’s foreign minister, signed the treaty with Georgy Chicherin.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_038",
+                "prompt": "The Coup of 18 Brumaire (9 November 1799) involved the legislature being moved to and confronted at which site near Paris?",
+                "choices": [
+                    "Palace of Versailles",
+                    "Château de Saint-Cloud",
+                    "Hôtel des Invalides",
+                    "Tuileries Palace"
+                ],
+                "answerIndex": 1,
+                "explanation": "Key dramatic scenes of the coup occurred at the Château de Saint-Cloud.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_039",
+                "prompt": "After the Battle of Plassey (23 June 1757), which figure became Nawab of Bengal with British backing?",
+                "choices": [
+                    "Siraj ud-Daulah",
+                    "Mir Jafar",
+                    "Tipu Sultan",
+                    "Haider Ali"
+                ],
+                "answerIndex": 1,
+                "explanation": "Mir Jafar was installed as Nawab after the British East India Company victory.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "history_040",
+                "prompt": "Which Roman emperor convened the Council of Chalcedon (opened 8 October 451)?",
+                "choices": [
+                    "Theodosius I",
+                    "Marcian",
+                    "Justinian I",
+                    "Constantine I"
+                ],
+                "answerIndex": 1,
+                "explanation": "The Council of Chalcedon was convoked by Emperor Marcian and met from 8 October to 1 November 451.",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

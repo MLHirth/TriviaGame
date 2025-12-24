@@ -1,0 +1,389 @@
+{
+    "version": 1,
+    "category": {
+        "id": "technology",
+        "name": "Technology",
+        "questions": [
+            {
+                "id": "technology_001",
+                "prompt": "According to the IETF specification for QUIC (RFC 9000), QUIC is defined as which kind of transport?",
+                "choices": [
+                    "A UDP-based multiplexed and secure transport protocol",
+                    "A TCP option that adds multiplexed streams",
+                    "A SCTP extension that replaces TLS",
+                    "A link-layer protocol for Ethernet frames"
+                ],
+                "answerIndex": 0,
+                "explanation": "RFC 9000 defines QUIC as a UDP-based multiplexed and secure transport protocol (with related RFCs covering TLS integration, loss recovery, etc.).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_002",
+                "prompt": "Which cipher family did NIST select as the winner of the Advanced Encryption Standard (AES) competition?",
+                "choices": ["Rijndael", "Twofish", "Serpent", "MARS"],
+                "answerIndex": 0,
+                "explanation": "NIST selected the Rijndael block cipher family as AES.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_003",
+                "prompt": "Which algorithm did NIST select as the winner of the SHA-3 competition?",
+                "choices": ["Keccak", "BLAKE", "Skein", "Grøstl"],
+                "answerIndex": 0,
+                "explanation": "NIST selected Keccak to become SHA-3.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_004",
+                "prompt": "The Intel 4004 is widely cited as a landmark because it was the first widely available commercial example of what?",
+                "choices": [
+                    "A single-chip microprocessor CPU",
+                    "A stored-program computer",
+                    "A transistorized mainframe",
+                    "A DRAM chip"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Intel 4004 (introduced in 1971) is credited as the first commercially available single-chip microprocessor CPU.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_005",
+                "prompt": "Which RFC currently defines the IPv6 base specification (superseding RFC 2460)?",
+                "choices": ["RFC 8200", "RFC 791", "RFC 768", "RFC 959"],
+                "answerIndex": 0,
+                "explanation": "IPv6’s current base specification is RFC 8200; RFC 2460 was obsoleted.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_006",
+                "prompt": "What is the well-known TCP port number used by BGP (Border Gateway Protocol)?",
+                "choices": ["179", "53", "443", "161"],
+                "answerIndex": 0,
+                "explanation": "BGP sessions run over TCP port 179.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_007",
+                "prompt": "In IEEE 802.1Q VLAN tagging, what is the Tag Protocol Identifier (TPID) value for a VLAN-tagged frame?",
+                "choices": ["0x8100", "0x0800", "0x86DD", "0x8847"],
+                "answerIndex": 0,
+                "explanation": "802.1Q uses TPID 0x8100 to indicate a VLAN tag (distinct from EtherType values like 0x0800 for IPv4).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_008",
+                "prompt": "Which of the following is the correct 4-byte magic number sequence at the start of an ELF binary?",
+                "choices": [
+                    "0x7F 45 4C 46",
+                    "0x89 50 4E 47",
+                    "0x25 50 44 46",
+                    "0xCA FE BA BE"
+                ],
+                "answerIndex": 0,
+                "explanation": "ELF files begin with 0x7F followed by ASCII 'E' 'L' 'F' (45 4C 46).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_009",
+                "prompt": "In Git’s object database, which set lists all four fundamental object types?",
+                "choices": [
+                    "blob, tree, commit, tag",
+                    "file, directory, revision, label",
+                    "delta, pack, ref, head",
+                    "chunk, node, branch, stash"
+                ],
+                "answerIndex": 0,
+                "explanation": "Git stores objects as blobs, trees, commits, and annotated tags.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_010",
+                "prompt": "In DNS, which RR type code corresponds to an IPv6 address record?",
+                "choices": [
+                    "AAAA (type 28)",
+                    "A (type 1)",
+                    "MX (type 15)",
+                    "PTR (type 12)"
+                ],
+                "answerIndex": 0,
+                "explanation": "AAAA records store IPv6 addresses and have type code 28.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_011",
+                "prompt": "Which bit in the first octet of a MAC address indicates a locally administered address (LAA)?",
+                "choices": [
+                    "The second least significant bit (U/L bit)",
+                    "The most significant bit",
+                    "The least significant bit (I/G bit)",
+                    "Bit 4 (0x10)"
+                ],
+                "answerIndex": 0,
+                "explanation": "In the first octet, the U/L bit (second least significant) indicates locally administered vs. globally unique.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_012",
+                "prompt": "What is the link-local unicast prefix range for IPv6 addresses?",
+                "choices": ["fe80::/10", "fc00::/7", "2000::/3", "ff00::/8"],
+                "answerIndex": 0,
+                "explanation": "IPv6 link-local unicast addresses use the prefix fe80::/10.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_013",
+                "prompt": "In IEEE 754 single-precision floating point, what is the exponent bias?",
+                "choices": ["127", "1023", "15", "255"],
+                "answerIndex": 0,
+                "explanation": "Single precision uses an 8-bit exponent with a bias of 127.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_014",
+                "prompt": "In AES (as standardized by NIST), what is the block size?",
+                "choices": ["128 bits", "64 bits", "192 bits", "256 bits"],
+                "answerIndex": 0,
+                "explanation": "AES always has a 128-bit block size; the key size varies (128/192/256).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_015",
+                "prompt": "In SHA-256, what is the message block size (before padding processing within the compression function)?",
+                "choices": ["512 bits", "1024 bits", "256 bits", "2048 bits"],
+                "answerIndex": 0,
+                "explanation": "SHA-256 processes 512-bit message blocks.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_016",
+                "prompt": "Which value is the most commonly used RSA public exponent in modern deployments?",
+                "choices": ["65537", "3", "17", "4294967295"],
+                "answerIndex": 0,
+                "explanation": "65537 (0x10001) is widely used because it’s efficient and avoids some pitfalls of very small exponents.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_017",
+                "prompt": "Which encoding was developed by IBM and is historically associated with mainframes, as distinct from ASCII?",
+                "choices": ["EBCDIC", "UTF-8", "ISO-8859-1", "BCD"],
+                "answerIndex": 0,
+                "explanation": "EBCDIC (Extended Binary Coded Decimal Interchange Code) is an IBM character encoding family used on mainframes.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_018",
+                "prompt": "Which standard family defines public-key certificates commonly used in TLS PKI?",
+                "choices": ["X.509", "X.25", "X.400", "X10"],
+                "answerIndex": 0,
+                "explanation": "X.509 defines the certificate format used by the Web PKI (among many other uses).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_019",
+                "prompt": "In x86 machine code, what is the single-byte opcode for NOP (the canonical one-byte NOP)?",
+                "choices": ["0x90", "0x00", "0xCC", "0xF4"],
+                "answerIndex": 0,
+                "explanation": "0x90 is the canonical one-byte NOP on x86 (it’s XCHG EAX,EAX historically).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_020",
+                "prompt": "On Linux x86_64, what is the syscall number for exit (not exit_group)?",
+                "choices": ["60", "1", "39", "231"],
+                "answerIndex": 0,
+                "explanation": "On Linux x86_64, the exit syscall number is 60; 231 is exit_group.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_021",
+                "prompt": "Which is the correct port used by the Network Time Protocol (NTP)?",
+                "choices": ["UDP 123", "TCP 123", "UDP 161", "TCP 69"],
+                "answerIndex": 0,
+                "explanation": "NTP uses UDP port 123.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_022",
+                "prompt": "Which DNSSEC record type is specifically used to store a zone’s public key(s)?",
+                "choices": ["DNSKEY", "DS", "RRSIG", "NSEC"],
+                "answerIndex": 0,
+                "explanation": "DNSKEY records publish the DNSSEC public keys for a zone; DS is used in the parent zone to refer to a child’s key.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_023",
+                "prompt": "What is the standard length (in bytes) of an IPv6 header without extension headers?",
+                "choices": ["40", "20", "60", "48"],
+                "answerIndex": 0,
+                "explanation": "The fixed IPv6 base header is 40 bytes (unlike IPv4’s variable-length header).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_024",
+                "prompt": "In HTTP/2, what unit is used to multiplex independent bidirectional flows over a single connection?",
+                "choices": ["Streams", "Sockets", "Channels", "Routes"],
+                "answerIndex": 0,
+                "explanation": "HTTP/2 multiplexes multiple streams over one connection using frames.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_025",
+                "prompt": "Which RFC is commonly cited as defining the Internet media type for JSON and clarifying its syntax (\"The JavaScript Object Notation (JSON) Data Interchange Format\")?",
+                "choices": ["RFC 8259", "RFC 2616", "RFC 1035", "RFC 3986"],
+                "answerIndex": 0,
+                "explanation": "RFC 8259 defines JSON as a data interchange format and registers application/json.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_026",
+                "prompt": "In Unicode/UTF-8, how many bytes are used to encode code points in the range U+10000 to U+10FFFF?",
+                "choices": ["4", "1", "2", "3"],
+                "answerIndex": 0,
+                "explanation": "UTF-8 uses 4 bytes for code points beyond U+FFFF (i.e., U+10000–U+10FFFF).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_027",
+                "prompt": "Which of the following is an IEEE 802.11 amendment that defined 60 GHz Wi‑Fi (often branded as WiGig)?",
+                "choices": ["802.11ad", "802.11b", "802.11n", "802.11ax"],
+                "answerIndex": 0,
+                "explanation": "802.11ad operates in the 60 GHz band and was marketed as WiGig.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_028",
+                "prompt": "In PCI Express terminology, one \"lane\" consists of what physical signaling arrangement?",
+                "choices": [
+                    "Two differential pairs: one for transmit and one for receive (full-duplex)",
+                    "One differential pair shared for transmit and receive (half-duplex)",
+                    "A single-ended clock plus one data line",
+                    "Four twisted pairs (two Tx, two Rx)"
+                ],
+                "answerIndex": 0,
+                "explanation": "A PCIe lane is full-duplex, implemented as two differential pairs: Tx and Rx.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_029",
+                "prompt": "Which of these is the correct well-known port/protocol pairing for SNMP (Simple Network Management Protocol)?",
+                "choices": ["UDP 161", "TCP 161", "UDP 162", "TCP 162"],
+                "answerIndex": 0,
+                "explanation": "SNMP queries use UDP 161; traps/informs are commonly sent to UDP 162.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_030",
+                "prompt": "In the Java Virtual Machine class file format, what is the magic number at the beginning of every .class file?",
+                "choices": [
+                    "0xCAFEBABE",
+                    "0xDEADBEEF",
+                    "0xFEEDFACE",
+                    "0xBAADF00D"
+                ],
+                "answerIndex": 0,
+                "explanation": "JVM class files begin with the magic 0xCAFEBABE.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_031",
+                "prompt": "Which Unix signal name is conventionally raised on an invalid memory reference (segmentation fault)?",
+                "choices": ["SIGSEGV", "SIGBUS", "SIGFPE", "SIGILL"],
+                "answerIndex": 0,
+                "explanation": "SIGSEGV is the conventional signal for a segmentation violation.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_032",
+                "prompt": "In the AES competition, which finalist cipher was designed by IBM (team led by Don Coppersmith et al.)?",
+                "choices": ["MARS", "Serpent", "Twofish", "RC6"],
+                "answerIndex": 0,
+                "explanation": "MARS was IBM’s AES finalist submission.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_033",
+                "prompt": "Which algorithm family underlies the \"sponge\" construction used by SHA-3?",
+                "choices": [
+                    "Permutation-based sponge construction (as in Keccak)",
+                    "Merkle–Damgård with Davies–Meyer compression",
+                    "LFSR-based stream cipher construction",
+                    "Feistel network with round functions"
+                ],
+                "answerIndex": 0,
+                "explanation": "SHA-3 (Keccak) uses a permutation-based sponge construction rather than Merkle–Damgård.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_034",
+                "prompt": "Which of these protocols is the file service protocol used by Plan 9 from Bell Labs?",
+                "choices": ["9P", "NFSv3", "SMB2", "AFP"],
+                "answerIndex": 0,
+                "explanation": "Plan 9 uses the 9P protocol to present resources (including files) uniformly.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_035",
+                "prompt": "What is the name of the original Bell Labs source control system introduced in the early 1970s?",
+                "choices": ["SCCS", "CVS", "Subversion", "Git"],
+                "answerIndex": 0,
+                "explanation": "SCCS (Source Code Control System) originated at Bell Labs and predates later systems like RCS/CVS.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_036",
+                "prompt": "Which IEEE standard number is associated with floating-point arithmetic (including NaN and infinities)?",
+                "choices": ["IEEE 754", "IEEE 802.3", "IEEE 1394", "IEEE 488"],
+                "answerIndex": 0,
+                "explanation": "IEEE 754 defines floating-point formats and behaviors such as NaN and ±Infinity.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_037",
+                "prompt": "Which of the following best describes the key idea of ARMv7's LDREX/STREX (or AArch64’s LDXR/STXR) instruction pairs?",
+                "choices": [
+                    "They implement an exclusive load/store used to build lock-free atomic primitives",
+                    "They are used only for SIMD vector loads and stores",
+                    "They toggle endianness for a memory region",
+                    "They perform encrypted memory accesses for TEEs"
+                ],
+                "answerIndex": 0,
+                "explanation": "Exclusive load/store pairs provide the foundation for atomic read-modify-write without a global lock.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_038",
+                "prompt": "Which well-known DNS record type stores a pointer to the authoritative name server(s) for a zone?",
+                "choices": ["NS", "SOA", "CNAME", "TXT"],
+                "answerIndex": 0,
+                "explanation": "NS records list the authoritative name servers for a zone (SOA holds zone metadata like serial).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_039",
+                "prompt": "In x86, what CPUID input leaf value (EAX) is used to retrieve the CPU vendor identification string?",
+                "choices": [
+                    "0x00000000",
+                    "0x00000001",
+                    "0x80000000",
+                    "0x00000007"
+                ],
+                "answerIndex": 0,
+                "explanation": "CPUID with EAX=0 returns the vendor ID string in EBX, EDX, and ECX (and the max basic leaf).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "technology_040",
+                "prompt": "In the TLS 1.3 protocol, what feature enables sending application data on the first flight when resuming with a PSK (with anti-replay caveats)?",
+                "choices": [
+                    "0-RTT (early data)",
+                    "ALPN",
+                    "OCSP stapling",
+                    "Renegotiation"
+                ],
+                "answerIndex": 0,
+                "explanation": "TLS 1.3 supports 0-RTT early data for PSK-based resumption (subject to replay risks).",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}

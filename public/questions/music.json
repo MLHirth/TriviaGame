@@ -1,0 +1,454 @@
+{
+    "version": 1,
+    "category": {
+        "id": "music",
+        "name": "Music",
+        "questions": [
+            {
+                "id": "music_001",
+                "prompt": "At which venue did Igor Stravinsky’s ballet The Rite of Spring receive its world premiere?",
+                "choices": [
+                    "Théâtre des Champs-Élysées (Paris)",
+                    "Opéra Garnier (Paris)",
+                    "Teatro alla Scala (Milan)",
+                    "Royal Opera House (London)"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Rite of Spring premiered at the Théâtre des Champs-Élysées in Paris.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_002",
+                "prompt": "On what date did The Rite of Spring premiere in Paris (world premiere)?",
+                "choices": [
+                    "29 May 1913",
+                    "2 April 1913",
+                    "12 February 1913",
+                    "7 April 1914"
+                ],
+                "answerIndex": 0,
+                "explanation": "Stravinsky’s ballet premiered on 29 May 1913.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_003",
+                "prompt": "The Original Dixieland Jass Band’s “Livery Stable Blues” (often cited as the first commercially released jazz recording) was released on which date?",
+                "choices": [
+                    "7 March 1917",
+                    "26 February 1917",
+                    "7 March 1916",
+                    "12 February 1917"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Victor release date is 7 March 1917 (recorded 26 Feb 1917).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_004",
+                "prompt": "Miles Davis’ “So What” is a classic modal jazz tune. Which mode underpins the A sections?",
+                "choices": [
+                    "D Dorian",
+                    "D Mixolydian",
+                    "D Phrygian",
+                    "D Aeolian (natural minor)"
+                ],
+                "answerIndex": 0,
+                "explanation": "The A sections sit in D Dorian (with the bridge moving to E♭ Dorian).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_005",
+                "prompt": "Beethoven’s Symphony No. 3 “Eroica” is cataloged as which opus number?",
+                "choices": ["Op. 55", "Op. 57", "Op. 67", "Op. 125"],
+                "answerIndex": 0,
+                "explanation": "The Eroica Symphony is Symphony No. 3 in E♭ major, Op. 55.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_006",
+                "prompt": "Mozart’s Symphony No. 41 “Jupiter” carries which Köchel (K.) number?",
+                "choices": ["K. 551", "K. 543", "K. 550", "K. 626"],
+                "answerIndex": 0,
+                "explanation": "Symphony No. 41 “Jupiter” is K. 551.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_007",
+                "prompt": "J.S. Bach’s Mass in B minor is cataloged as which BWV number?",
+                "choices": ["BWV 232", "BWV 1043", "BWV 1007", "BWV 988"],
+                "answerIndex": 0,
+                "explanation": "The Mass in B minor is BWV 232.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_008",
+                "prompt": "Arnold Schoenberg’s Pierrot lunaire is which opus number?",
+                "choices": ["Op. 21", "Op. 11", "Op. 28", "Op. 47"],
+                "answerIndex": 0,
+                "explanation": "Pierrot lunaire is Op. 21.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_009",
+                "prompt": "Penderecki’s Threnody to the Victims of Hiroshima (originally titled 8’37”) is scored for how many string instruments?",
+                "choices": ["52", "48", "60", "24"],
+                "answerIndex": 0,
+                "explanation": "It is famously scored for 52 strings (24 violins, 10 violas, 10 cellos, 8 basses).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_010",
+                "prompt": "Messiaen’s Quartet for the End of Time was first performed under extraordinary circumstances in 1941. Where did that premiere occur?",
+                "choices": [
+                    "Stalag VIII-A prisoner-of-war camp (near Görlitz)",
+                    "Carnegie Hall (New York)",
+                    "Théâtre des Champs-Élysées (Paris)",
+                    "Vienna Musikverein (Vienna)"
+                ],
+                "answerIndex": 0,
+                "explanation": "The work premiered at Stalag VIII-A, where Messiaen was interned as a POW.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_011",
+                "prompt": "Who performed the premiere of John Cage’s 4′33″ in 1952?",
+                "choices": [
+                    "David Tudor",
+                    "Glenn Gould",
+                    "Igor Stravinsky",
+                    "John Cage"
+                ],
+                "answerIndex": 0,
+                "explanation": "Pianist David Tudor premiered 4′33″.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_012",
+                "prompt": "Benjamin Britten’s War Requiem was commissioned for (and premiered at) the consecration of which building?",
+                "choices": [
+                    "Coventry Cathedral",
+                    "St. Paul’s Cathedral",
+                    "Notre-Dame de Paris",
+                    "Sagrada Família"
+                ],
+                "answerIndex": 0,
+                "explanation": "War Requiem premiered for the reconsecration of Coventry Cathedral.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_013",
+                "prompt": "Samuel Barber’s Adagio for Strings is an arrangement of music from which work?",
+                "choices": [
+                    "String Quartet, Op. 11",
+                    "Piano Sonata, Op. 26",
+                    "Cello Concerto, Op. 22",
+                    "Knoxville: Summer of 1915, Op. 24"
+                ],
+                "answerIndex": 0,
+                "explanation": "Adagio for Strings comes from Barber’s String Quartet, Op. 11.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_014",
+                "prompt": "Wagner’s Der Ring des Nibelungen cycle contains how many music dramas (operas)?",
+                "choices": ["4", "3", "5", "2"],
+                "answerIndex": 0,
+                "explanation": "The Ring comprises four works: Das Rheingold, Die Walküre, Siegfried, and Götterdämmerung.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_015",
+                "prompt": "Alban Berg’s opera Wozzeck is based on an unfinished play by which author?",
+                "choices": [
+                    "Georg Büchner",
+                    "Frank Wedekind",
+                    "Gerhart Hauptmann",
+                    "Hugo von Hofmannsthal"
+                ],
+                "answerIndex": 0,
+                "explanation": "Wozzeck is based on Büchner’s play Woyzeck.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_016",
+                "prompt": "Maurice Ravel composed the piano original of Pavane pour une infante défunte in which year?",
+                "choices": ["1899", "1905", "1912", "1887"],
+                "answerIndex": 0,
+                "explanation": "Ravel wrote the piano Pavane in 1899 (orchestrated later).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_017",
+                "prompt": "Schubert’s “Great” Symphony in C major is cataloged as which Deutsch (D.) number?",
+                "choices": ["D. 944", "D. 759", "D. 889", "D. 960"],
+                "answerIndex": 0,
+                "explanation": "The “Great” C-major Symphony is D. 944.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_018",
+                "prompt": "Haydn’s Symphony No. 94 is commonly known by which nickname?",
+                "choices": ["“Surprise”", "“Clock”", "“London”", "“Farewell”"],
+                "answerIndex": 0,
+                "explanation": "Symphony No. 94 is the “Surprise” Symphony.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_019",
+                "prompt": "Chopin’s two piano concertos are numbered Op. 11 (No. 1) and Op. 21 (No. 2). Which concerto was composed first?",
+                "choices": [
+                    "Piano Concerto No. 2 in F minor, Op. 21",
+                    "Piano Concerto No. 1 in E minor, Op. 11",
+                    "They were composed simultaneously",
+                    "Neither: both were orchestrated after Chopin’s death"
+                ],
+                "answerIndex": 0,
+                "explanation": "Despite the numbering, the F-minor concerto (published as No. 2) was composed first.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_020",
+                "prompt": "Rimsky-Korsakov’s symphonic suite Scheherazade carries which opus number?",
+                "choices": ["Op. 35", "Op. 27", "Op. 49", "Op. 64"],
+                "answerIndex": 0,
+                "explanation": "Scheherazade is Op. 35.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_021",
+                "prompt": "Miles Davis’ album Kind of Blue was recorded primarily at which studio (famous for its church-like acoustics)?",
+                "choices": [
+                    "Columbia 30th Street Studio (New York City)",
+                    "Abbey Road Studios (London)",
+                    "Van Gelder Studio (Englewood Cliffs)",
+                    "Capitol Studios (Los Angeles)"
+                ],
+                "answerIndex": 0,
+                "explanation": "Kind of Blue was recorded at Columbia’s 30th Street Studio in NYC.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_022",
+                "prompt": "The famous jazz standard “Take Five” was composed by which member of the Dave Brubeck Quartet?",
+                "choices": [
+                    "Paul Desmond",
+                    "Dave Brubeck",
+                    "Joe Morello",
+                    "Eugene Wright"
+                ],
+                "answerIndex": 0,
+                "explanation": "“Take Five” was composed by alto saxophonist Paul Desmond.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_023",
+                "prompt": "Coltrane’s “Giant Steps” is notorious for rapid key changes following a cycle that moves by what interval?",
+                "choices": [
+                    "Major thirds",
+                    "Perfect fourths",
+                    "Minor seconds",
+                    "Tritones"
+                ],
+                "answerIndex": 0,
+                "explanation": "“Coltrane changes” famously cycle through key centers a major third apart.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_024",
+                "prompt": "Ornette Coleman’s The Shape of Jazz to Come was released on which label?",
+                "choices": ["Atlantic", "Blue Note", "Impulse!", "Verve"],
+                "answerIndex": 0,
+                "explanation": "The Shape of Jazz to Come was released by Atlantic Records.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_025",
+                "prompt": "Which movement comes third in John Coltrane’s suite A Love Supreme?",
+                "choices": [
+                    "Pursuance",
+                    "Resolution",
+                    "Psalm",
+                    "Acknowledgement"
+                ],
+                "answerIndex": 0,
+                "explanation": "The four movements are Acknowledgement, Resolution, Pursuance, Psalm.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_026",
+                "prompt": "“Take the ‘A’ Train,” long associated with Duke Ellington, was composed by whom?",
+                "choices": [
+                    "Billy Strayhorn",
+                    "Duke Ellington",
+                    "Count Basie",
+                    "Fletcher Henderson"
+                ],
+                "answerIndex": 0,
+                "explanation": "Billy Strayhorn wrote “Take the ‘A’ Train.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_027",
+                "prompt": "The first jazz work to win the Pulitzer Prize for Music was Wynton Marsalis’ Blood on the Fields. In what year was the prize awarded?",
+                "choices": ["1997", "1985", "2001", "1973"],
+                "answerIndex": 0,
+                "explanation": "Marsalis received the Pulitzer Prize for Music in 1997.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_028",
+                "prompt": "Which song was the very first music video played on MTV at launch (Aug 1, 1981)?",
+                "choices": [
+                    "“Video Killed the Radio Star” — The Buggles",
+                    "“Hungry Like the Wolf” — Duran Duran",
+                    "“Bohemian Rhapsody” — Queen",
+                    "“Billie Jean” — Michael Jackson"
+                ],
+                "answerIndex": 0,
+                "explanation": "MTV launched with “Video Killed the Radio Star.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_029",
+                "prompt": "Which song set (and held for years) the Billboard Hot 100 record with 19 consecutive weeks at No. 1 in 2019?",
+                "choices": [
+                    "“Old Town Road” — Lil Nas X",
+                    "“Despacito” — Luis Fonsi & Daddy Yankee ft. Justin Bieber",
+                    "“One Sweet Day” — Mariah Carey & Boyz II Men",
+                    "“Uptown Funk!” — Mark Ronson ft. Bruno Mars"
+                ],
+                "answerIndex": 0,
+                "explanation": "“Old Town Road” led the Hot 100 for 19 weeks in 2019.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_030",
+                "prompt": "Who produced Queen’s “Bohemian Rhapsody” (from A Night at the Opera)?",
+                "choices": [
+                    "Roy Thomas Baker",
+                    "George Martin",
+                    "Brian Eno",
+                    "Glyn Johns"
+                ],
+                "answerIndex": 0,
+                "explanation": "Roy Thomas Baker produced “Bohemian Rhapsody.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_031",
+                "prompt": "Nirvana’s “Smells Like Teen Spirit” was produced by which producer?",
+                "choices": ["Butch Vig", "Rick Rubin", "Steve Albini", "Flood"],
+                "answerIndex": 0,
+                "explanation": "Butch Vig produced Nevermind, including “Smells Like Teen Spirit.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_032",
+                "prompt": "The iconic guitar solo on Michael Jackson’s “Beat It” was performed by whom?",
+                "choices": [
+                    "Eddie Van Halen",
+                    "Slash",
+                    "Prince",
+                    "Carlos Santana"
+                ],
+                "answerIndex": 0,
+                "explanation": "Eddie Van Halen played the solo on “Beat It.”",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_033",
+                "prompt": "The Rolling Stones “tongue and lips” logo (first used in 1971) was designed by which graphic artist?",
+                "choices": [
+                    "John Pasche",
+                    "Peter Blake",
+                    "Storm Thorgerson",
+                    "Hipgnosis"
+                ],
+                "answerIndex": 0,
+                "explanation": "Designer John Pasche created the Rolling Stones tongue logo.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_034",
+                "prompt": "As of the 2024 awards cycle, which artist is credited as the most frequent (main-artist) winner of the Grammy Award for Album of the Year?",
+                "choices": [
+                    "Taylor Swift",
+                    "Stevie Wonder",
+                    "Frank Sinatra",
+                    "Adele"
+                ],
+                "answerIndex": 0,
+                "explanation": "Taylor Swift has the most Album of the Year wins as a main credited artist (four).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_035",
+                "prompt": "Which tuning system name refers to the (typically) five-tone scale used in much Javanese and Balinese gamelan music?",
+                "choices": [
+                    "Sléndro",
+                    "Pélog",
+                    "Just intonation",
+                    "Pythagorean tuning"
+                ],
+                "answerIndex": 0,
+                "explanation": "Sléndro is the common five-tone gamelan tuning system (pélog is typically seven-tone).",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_036",
+                "prompt": "In common-practice harmony, a “Neapolitan” chord is built on which scale degree (as its root) in a major/minor key?",
+                "choices": [
+                    "♭II (flattened supertonic)",
+                    "♯IV (raised subdominant)",
+                    "VI (submediant)",
+                    "III (mediant)"
+                ],
+                "answerIndex": 0,
+                "explanation": "The Neapolitan is a major chord built on the lowered second scale degree (♭II), often in first inversion.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_037",
+                "prompt": "Which mode is represented by the white keys on a piano when playing from E to E?",
+                "choices": ["Phrygian", "Lydian", "Dorian", "Mixolydian"],
+                "answerIndex": 0,
+                "explanation": "E to E on white keys yields the Phrygian mode.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_038",
+                "prompt": "Which of the following is the correct scientific pitch frequency for standard concert A4 in the ISO 16 standard?",
+                "choices": ["440 Hz", "432 Hz", "444 Hz", "415 Hz"],
+                "answerIndex": 0,
+                "explanation": "ISO 16 specifies A4 = 440 Hz as standard pitch.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_039",
+                "prompt": "Which instrument is a double-reed woodwind pitched lower than the oboe, associated with the French name “cor anglais”?",
+                "choices": [
+                    "English horn",
+                    "Heckelphone",
+                    "Bass oboe",
+                    "Basset horn"
+                ],
+                "answerIndex": 0,
+                "explanation": "The cor anglais is the English horn, a lower-pitched member of the oboe family.",
+                "difficulty": "hard"
+            },
+            {
+                "id": "music_040",
+                "prompt": "In twelve-tone (dodecaphonic) terminology, what does “retrograde inversion” mean?",
+                "choices": [
+                    "The inverted row in reverse order",
+                    "The original row transposed down a tritone",
+                    "The original row in reverse order",
+                    "The inverted row starting on the same pitch as the prime form"
+                ],
+                "answerIndex": 0,
+                "explanation": "Retrograde inversion is the inversion of the row presented backwards (reverse order).",
+                "difficulty": "hard"
+            }
+        ]
+    }
+}
